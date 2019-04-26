@@ -4,7 +4,7 @@
 
 ### Higher order effects
 
-What is the theoretical underpinning of the `polysemy` extensible effects library? My suspicion is that it is a free functor of some kind, probably between the free functor from the category of monad transformers to the category of monads.
+What is the theoretical underpinning of the `polysemy` extensible effects library? My suspicion is that it is a free functor of some kind, probably the free functor from the category of monad transformers to the category of monads.
 
 To answer the question rigorously, I need to do some reading:
 
@@ -20,7 +20,7 @@ Stuff I've played around with so far:
 
 - [Encoding first order extensible effects using the church encoded FreerT](https://github.com/masaeedu/freert-effs)
 
-### Vector algebra
+## Vector algebra
 
 I want to render a game of life in toroidal coordinates on an actual torus. I started implementing my own vector algebra library using some generalized n-dimensional vector math stuff, but then became intrigued by what the generalization of the cross product to n-dimensions would be. Turns out this is called the Hodge Star operator. In the course of learning about this, I discovered a rabbithole of interesting things to read:
 
