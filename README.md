@@ -28,3 +28,7 @@ I want to render a game of life in toroidal coordinates on an actual torus. I st
 - [Wikipedia page on exterior algebra](https://en.wikipedia.org/wiki/Exterior_algebra)
 - [TODO: fundamentals even on vector algebra are weak, find some nice resource on this]()
 - [Wikipedia page on Hodge star operator](https://en.wikipedia.org/wiki/Hodge_star_operator)
+
+Stuff I've played around with so far:
+
+- [Implementation of game of life using traced comonad (traced probably works out really great for concatenating matrix transforms and doing relative coordinates in nD)](https://ywvr561j8z.codesandbox.io/)
