@@ -32,3 +32,10 @@ I want to render a game of life in toroidal coordinates on an actual torus. I st
 Stuff I've played around with so far:
 
 - [Implementation of game of life using traced comonad (traced probably works out really great for concatenating matrix transforms and doing relative coordinates in nD)](https://ywvr561j8z.codesandbox.io/)
+
+## Curry-Howard correspondence
+
+- [A Formulae-as-Types Notion of Control](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=539A05FBC2F509D4F2DF59702F69566E?doi=10.1.1.26.6893&rep=rep1&type=pdf)
+- [Classical vs constructive logic](https://www.andrew.cmu.edu/user/avigad/Teaching/classical.pdf)
+- [Modal logic (order goes propositional logic -> predicate logic -> modal logic)](https://en.wikipedia.org/wiki/Modal_logic)
+- [Kripke semantics](https://en.wikipedia.org/wiki/Kripke_semantics)
