@@ -40,7 +40,7 @@ Stuff I've played around with so far:
 - [Modal logic (order goes propositional logic -> predicate logic -> modal logic)](https://en.wikipedia.org/wiki/Modal_logic)
 - [Kripke semantics](https://en.wikipedia.org/wiki/Kripke_semantics)
 
-# Misc category theory
+## Misc category theory
 
 - Futile efforts to keep up with Bartosz Milewski's prolific blog:
   - https://bartoszmilewski.com/2017/12/29/stalking-a-hylomorphism-in-the-wild/
