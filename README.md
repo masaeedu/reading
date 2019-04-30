@@ -39,3 +39,10 @@ Stuff I've played around with so far:
 - [Classical vs constructive logic](https://www.andrew.cmu.edu/user/avigad/Teaching/classical.pdf)
 - [Modal logic (order goes propositional logic -> predicate logic -> modal logic)](https://en.wikipedia.org/wiki/Modal_logic)
 - [Kripke semantics](https://en.wikipedia.org/wiki/Kripke_semantics)
+
+# Misc category theory
+
+- Futile efforts to keep up with Bartosz Milewski's prolific blog:
+  - https://bartoszmilewski.com/2017/12/29/stalking-a-hylomorphism-in-the-wild/
+  - https://bartoszmilewski.com/2018/08/20/recursion-schemes-for-higher-algebras/
+  - https://bartoszmilewski.com/2019/03/27/promonads-arrows-and-einstein-notation-for-profunctors/
