@@ -46,3 +46,12 @@ Stuff I've played around with so far:
   - https://bartoszmilewski.com/2017/12/29/stalking-a-hylomorphism-in-the-wild/
   - https://bartoszmilewski.com/2018/08/20/recursion-schemes-for-higher-algebras/
   - https://bartoszmilewski.com/2019/03/27/promonads-arrows-and-einstein-notation-for-profunctors/
+
+## Parsing
+
+Need to make the parsing stuff I have work on streams of arbitrary tokens rather than just strings (hopefully making it more efficient in the process). Related reading:
+
+ - [Streaming library, which provides a ListT-ish thing](https://hackage.haskell.org/package/streaming)
+   - [wip stuff for making streaming work for parsing](https://github.com/haskell-streaming/streaming-utils)
+ - [Invertible syntax descriptions](http://www.informatik.uni-marburg.de/~rendel/unparse/rendel10invertible.pdf)
+ - [Some kind of simplification of the concepts in the invertible syntax descriptions paper](https://blog.poisson.chat/posts/2016-10-18-typeclass-interface.html)
