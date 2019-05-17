@@ -47,6 +47,8 @@ Stuff I've played around with so far:
   - https://bartoszmilewski.com/2018/08/20/recursion-schemes-for-higher-algebras/
   - https://bartoszmilewski.com/2019/03/27/promonads-arrows-and-einstein-notation-for-profunctors/
 
+- [All Concepts are Kan Extensions](www.math.harvard.edu/theses/senior/lehner/lehner.pdf)
+
 ## Parsing
 
 Need to make the parsing stuff I have work on streams of arbitrary tokens rather than just strings (hopefully making it more efficient in the process). Related reading:
