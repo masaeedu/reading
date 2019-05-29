@@ -40,6 +40,10 @@ Stuff I've played around with so far:
 - [Modal logic (order goes propositional logic -> predicate logic -> modal logic)](https://en.wikipedia.org/wiki/Modal_logic)
 - [Kripke semantics](https://en.wikipedia.org/wiki/Kripke_semantics)
 
+## Misc type systems
+
+ - [Singleton types are sufficient to model CoC](https://www.iro.umontreal.ca/~monnier/comp-deptypes.pdf)
+
 ## Misc category theory
 
 - Futile efforts to keep up with Bartosz Milewski's prolific blog:
