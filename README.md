@@ -68,7 +68,7 @@ Need to make the parsing stuff I have work on streams of arbitrary tokens rather
 - [Representing Monads 94 POPL paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.43.8213&rep=rep1&type=pdf)
 - [Capturing the future by replaying the past](https://arxiv.org/pdf/1710.10385.pdf)
 
-## Lenses
+## Lenses, optics and their relation to user interfaces
 
 - [Taking Updates Seriously (update monad, coupdate comonad)](https://danel.ahman.ee/papers/bx17.pdf)
   - https://www.schoolofhaskell.com/user/edwardk/heap-of-successes
