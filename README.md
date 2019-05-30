@@ -61,3 +61,9 @@ Need to make the parsing stuff I have work on streams of arbitrary tokens rather
    - [wip stuff for making streaming work for parsing](https://github.com/haskell-streaming/streaming-utils)
  - [Invertible syntax descriptions](http://www.informatik.uni-marburg.de/~rendel/unparse/rendel10invertible.pdf)
  - [Some kind of simplification of the concepts in the invertible syntax descriptions paper](https://blog.poisson.chat/posts/2016-10-18-typeclass-interface.html)
+
+## Continuations, monads, continuation monads
+
+- http://cs.ioc.ee/mpc-amast06/msfp/filinski-slides.pdf
+- http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.43.8213&rep=rep1&type=pdf
+- https://arxiv.org/pdf/1710.10385.pdf
