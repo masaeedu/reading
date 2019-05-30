@@ -64,6 +64,6 @@ Need to make the parsing stuff I have work on streams of arbitrary tokens rather
 
 ## Continuations, monads, continuation monads
 
-- http://cs.ioc.ee/mpc-amast06/msfp/filinski-slides.pdf
-- http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.43.8213&rep=rep1&type=pdf
-- https://arxiv.org/pdf/1710.10385.pdf
+- [Monadic Reflection in Haskell slides (Andrzej Filinski)](http://cs.ioc.ee/mpc-amast06/msfp/filinski-slides.pdf)
+- [Representing Monads 94 POPL paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.43.8213&rep=rep1&type=pdf)
+- [Capturing the future by replaying the past](https://arxiv.org/pdf/1710.10385.pdf)
