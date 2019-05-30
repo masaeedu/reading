@@ -73,3 +73,4 @@ Need to make the parsing stuff I have work on streams of arbitrary tokens rather
 - [Taking Updates Seriously (update monad, coupdate comonad)](https://danel.ahman.ee/papers/bx17.pdf)
   - https://www.schoolofhaskell.com/user/edwardk/heap-of-successes
 - https://bartoszmilewski.com/2017/07/07/profunctor-optics-the-categorical-view/
+- https://arthurxavierx.github.io/RealWorldAppComonadicUI.pdf
