@@ -43,6 +43,8 @@ Stuff I've played around with so far:
 ## Misc type systems
 
  - [Singleton types are sufficient to model CoC](https://www.iro.umontreal.ca/~monnier/comp-deptypes.pdf)
+ - [Naive Computational Type Theory](http://www.nuprl.org/documents/Constable/naive.pdf)
+ - [Predicativity](https://math.stanford.edu/~feferman/papers/predicativity.pdf)
 
 ## Misc category theory
 
