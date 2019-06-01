@@ -54,6 +54,7 @@ Stuff I've played around with so far:
   - https://bartoszmilewski.com/2019/03/27/promonads-arrows-and-einstein-notation-for-profunctors/
 
 - [All Concepts are Kan Extensions](www.math.harvard.edu/theses/senior/lehner/lehner.pdf)
+- [Composing bidirectional arrows bidirectionally](https://arxiv.org/pdf/1902.06950.pdf)
 
 ## Parsing
 
