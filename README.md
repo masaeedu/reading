@@ -46,6 +46,7 @@ Stuff I've played around with so far:
  - [Naive Computational Type Theory](http://www.nuprl.org/documents/Constable/naive.pdf)
  - [Predicativity](https://math.stanford.edu/~feferman/papers/predicativity.pdf)
  - [Generic type-safe diffing and merging of mutually recursive datatypes (arianvp)](https://docs.google.com/presentation/d/1D9SA7_kU9RZyh0r4LF7kYvn5gDo5uKM9DWIvtUf5MkI/edit#slide=id.g59cdfdc22e_0_35)
+ - [Epigram: Practical Programming with Dependent Types](http://www.e-pig.org/downloads/epigram-notes.pdf)
 
 ## Misc category theory
 
