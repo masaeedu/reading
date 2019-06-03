@@ -78,3 +78,4 @@ Need to make the parsing stuff I have work on streams of arbitrary tokens rather
 - https://bartoszmilewski.com/2017/07/07/profunctor-optics-the-categorical-view/
 - https://arthurxavierx.github.io/RealWorldAppComonadicUI.pdf
 - https://danel.ahman.ee/papers/types13postproc.pdf
+- [Categories of optics](https://arxiv.org/pdf/1809.00738.pdf)
