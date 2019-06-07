@@ -57,6 +57,8 @@ Stuff I've played around with so far:
 
 - [All Concepts are Kan Extensions](www.math.harvard.edu/theses/senior/lehner/lehner.pdf)
 - [Composing bidirectional arrows bidirectionally](https://arxiv.org/pdf/1902.06950.pdf)
+- [Decisive functors](https://fplab.bitbucket.io/posts/2007-07-08-decisive-functors.html)
+  - I suspect that the interaction between traversable and applicative functors can be dualized to an interaction between distributive and decisive functors
 
 ## Parsing
 
