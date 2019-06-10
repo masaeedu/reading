@@ -59,6 +59,7 @@ Stuff I've played around with so far:
 - [Composing bidirectional arrows bidirectionally](https://arxiv.org/pdf/1902.06950.pdf)
 - [Decisive functors](https://fplab.bitbucket.io/posts/2007-07-08-decisive-functors.html)
   - I suspect that the interaction between traversable and applicative functors can be dualized to an interaction between distributive and decisive functors
+- [A whole bunch of abstract algebra structures represented as categories](https://en.wikibooks.org/wiki/Category_Theory/Categories)
 
 ## Parsing
 
