@@ -60,6 +60,7 @@ Stuff I've played around with so far:
 - [Decisive functors](https://fplab.bitbucket.io/posts/2007-07-08-decisive-functors.html)
   - I suspect that the interaction between traversable and applicative functors can be dualized to an interaction between distributive and decisive functors
 - [A whole bunch of abstract algebra structures represented as categories](https://en.wikibooks.org/wiki/Category_Theory/Categories)
+- [An investigation of the laws of traversals](https://www.fceia.unr.edu.ar/~mauro/pubs/TraverseLaws.pdf)
 
 ## Parsing
 
