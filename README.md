@@ -47,6 +47,7 @@ Stuff I've played around with so far:
  - [Predicativity](https://math.stanford.edu/~feferman/papers/predicativity.pdf)
  - [Generic type-safe diffing and merging of mutually recursive datatypes (arianvp)](https://docs.google.com/presentation/d/1D9SA7_kU9RZyh0r4LF7kYvn5gDo5uKM9DWIvtUf5MkI/edit#slide=id.g59cdfdc22e_0_35)
  - [Epigram: Practical Programming with Dependent Types](http://www.e-pig.org/downloads/epigram-notes.pdf)
+ - http://philsci-archive.pitt.edu/11079/1/Identity_in_HTT_public.pdf
 
 ## Misc category theory
 
