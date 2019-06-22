@@ -87,3 +87,9 @@ Need to make the parsing stuff I have work on streams of arbitrary tokens rather
 - https://arthurxavierx.github.io/RealWorldAppComonadicUI.pdf
 - https://danel.ahman.ee/papers/types13postproc.pdf
 - [Categories of optics](https://arxiv.org/pdf/1809.00738.pdf)
+
+## Practical software engineering stuff
+
+- Generative testing
+  - [Generating good generators (how to write quickheck tests when it's hard)](https://lemonidas.github.io/pdf/GeneratingGoodGenerators.pdf)
+  - [Stack Overflow answer by @lyxia aggregating various resources on generative testing](https://stackoverflow.com/questions/54122466/what-is-the-best-practice-to-generate-data-which-satisfy-specific-property-in-qu)
