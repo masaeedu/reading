@@ -20,19 +20,6 @@ Stuff I've played around with so far:
 
 - [Encoding first order extensible effects using the church encoded FreerT](https://github.com/masaeedu/freert-effs)
 
-## Vector algebra
-
-I want to render a game of life in toroidal coordinates on an actual torus. I started implementing my own vector algebra library using some generalized n-dimensional vector math stuff, but then became intrigued by what the generalization of the cross product to n-dimensions would be. Turns out this is called the Hodge Star operator. In the course of learning about this, I discovered a rabbithole of interesting things to read:
-
-- [Course on discrete differential geometry](http://brickisland.net/DDGSpring2019/)
-- [Wikipedia page on exterior algebra](https://en.wikipedia.org/wiki/Exterior_algebra)
-- [TODO: fundamentals even on vector algebra are weak, find some nice resource on this]()
-- [Wikipedia page on Hodge star operator](https://en.wikipedia.org/wiki/Hodge_star_operator)
-
-Stuff I've played around with so far:
-
-- [Implementation of game of life using traced comonad (traced probably works out really great for concatenating matrix transforms and doing relative coordinates in nD)](https://ywvr561j8z.codesandbox.io/)
-
 ## Curry-Howard correspondence
 
 - [A Formulae-as-Types Notion of Control](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=539A05FBC2F509D4F2DF59702F69566E?doi=10.1.1.26.6893&rep=rep1&type=pdf)
@@ -88,8 +75,30 @@ Need to make the parsing stuff I have work on streams of arbitrary tokens rather
 - https://danel.ahman.ee/papers/types13postproc.pdf
 - [Categories of optics](https://arxiv.org/pdf/1809.00738.pdf)
 
-## Practical software engineering stuff
+## Testing
 
 - Generative testing
   - [Generating good generators (how to write quickheck tests when it's hard)](https://lemonidas.github.io/pdf/GeneratingGoodGenerators.pdf)
   - [Stack Overflow answer by @lyxia aggregating various resources on generative testing](https://stackoverflow.com/questions/54122466/what-is-the-best-practice-to-generate-data-which-satisfy-specific-property-in-qu)
+
+# Geometry
+
+## Graph layout
+
+I want to build a 3D git repo visualizer. Need to learn more about graph/tree layout algorithms esp in 3D:
+
+- [Tree Drawing Algorithms and Tree Visualisation Methods (slides)](http://www.it.usyd.edu.au/~shhong/comp5048-lec2.pdf)
+- [Cool hyperbolic geometry approach for rendering graphs using a spanning tree](https://graphics.stanford.edu/papers/h3cga/html/)
+
+## Vector algebra
+
+I want to render a game of life in toroidal coordinates on an actual torus. I started implementing my own vector algebra library using some generalized n-dimensional vector math stuff, but then became intrigued by what the generalization of the cross product to n-dimensions would be. Turns out this is called the Hodge Star operator. In the course of learning about this, I discovered a rabbithole of interesting things to read:
+
+- [Course on discrete differential geometry](http://brickisland.net/DDGSpring2019/)
+- [Wikipedia page on exterior algebra](https://en.wikipedia.org/wiki/Exterior_algebra)
+- [TODO: fundamentals even on vector algebra are weak, find some nice resource on this]()
+- [Wikipedia page on Hodge star operator](https://en.wikipedia.org/wiki/Hodge_star_operator)
+
+Stuff I've played around with so far:
+
+- [Implementation of game of life using traced comonad (traced probably works out really great for concatenating matrix transforms and doing relative coordinates in nD)](https://ywvr561j8z.codesandbox.io/)
