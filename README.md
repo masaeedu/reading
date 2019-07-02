@@ -50,6 +50,7 @@ Stuff I've played around with so far:
   - I suspect that the interaction between traversable and applicative functors can be dualized to an interaction between distributive and decisive functors
 - [A whole bunch of abstract algebra structures represented as categories](https://en.wikibooks.org/wiki/Category_Theory/Categories)
 - [An investigation of the laws of traversals](https://www.fceia.unr.edu.ar/~mauro/pubs/TraverseLaws.pdf)
+- [StackOverflow answer that points to some interesting resources about "directed containers"](https://stackoverflow.com/a/32933842/1726343)
 
 ## Parsing
 
