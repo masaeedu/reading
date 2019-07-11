@@ -36,6 +36,7 @@ Stuff I've played around with so far:
  - [Epigram: Practical Programming with Dependent Types](http://www.e-pig.org/downloads/epigram-notes.pdf)
  - http://philsci-archive.pitt.edu/11079/1/Identity_in_HTT_public.pdf
  - [Responsive compilers](https://www.youtube.com/watch?v=N6b44kMS6OM)
+ - [Extensions and Applications of Higher-Order Unification](http://conal.net/papers/elliott90.pdf)
 
 ## Misc category theory
 
