@@ -82,6 +82,11 @@ Need to make the parsing stuff I have work on streams of arbitrary tokens rather
   - [Generating good generators (how to write quickheck tests when it's hard)](https://lemonidas.github.io/pdf/GeneratingGoodGenerators.pdf)
   - [Stack Overflow answer by @lyxia aggregating various resources on generative testing](https://stackoverflow.com/questions/54122466/what-is-the-best-practice-to-generate-data-which-satisfy-specific-property-in-qu)
 
+## Recursion (schemes)
+
+- [Mayer Goldberg: A Variadic Extension of Curry's Fixed-Point Combinator](http://www.ccs.neu.edu/home/shivers/papers/scheme02/article/variadic-y.pdf)
+- [Many faces of the fixed point combinator](http://okmij.org/ftp/Computation/fixed-point-combinators.html)
+
 # Geometry
 
 ## Graph layout
