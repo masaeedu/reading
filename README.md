@@ -29,14 +29,14 @@ Stuff I've played around with so far:
 
 ## Misc type systems
 
- - [Singleton types are sufficient to model CoC](https://www.iro.umontreal.ca/~monnier/comp-deptypes.pdf)
- - [Naive Computational Type Theory](http://www.nuprl.org/documents/Constable/naive.pdf)
- - [Predicativity](https://math.stanford.edu/~feferman/papers/predicativity.pdf)
- - [Generic type-safe diffing and merging of mutually recursive datatypes (arianvp)](https://docs.google.com/presentation/d/1D9SA7_kU9RZyh0r4LF7kYvn5gDo5uKM9DWIvtUf5MkI/edit#slide=id.g59cdfdc22e_0_35)
- - [Epigram: Practical Programming with Dependent Types](http://www.e-pig.org/downloads/epigram-notes.pdf)
- - http://philsci-archive.pitt.edu/11079/1/Identity_in_HTT_public.pdf
- - [Responsive compilers](https://www.youtube.com/watch?v=N6b44kMS6OM)
- - [Extensions and Applications of Higher-Order Unification](http://conal.net/papers/elliott90.pdf)
+- [Singleton types are sufficient to model CoC](https://www.iro.umontreal.ca/~monnier/comp-deptypes.pdf)
+- [Naive Computational Type Theory](http://www.nuprl.org/documents/Constable/naive.pdf)
+- [Predicativity](https://math.stanford.edu/~feferman/papers/predicativity.pdf)
+- [Generic type-safe diffing and merging of mutually recursive datatypes (arianvp)](https://docs.google.com/presentation/d/1D9SA7_kU9RZyh0r4LF7kYvn5gDo5uKM9DWIvtUf5MkI/edit#slide=id.g59cdfdc22e_0_35)
+- [Epigram: Practical Programming with Dependent Types](http://www.e-pig.org/downloads/epigram-notes.pdf)
+- http://philsci-archive.pitt.edu/11079/1/Identity_in_HTT_public.pdf
+- [Responsive compilers](https://www.youtube.com/watch?v=N6b44kMS6OM)
+- [Extensions and Applications of Higher-Order Unification](http://conal.net/papers/elliott90.pdf)
 
 ## Misc category theory
 
@@ -44,7 +44,6 @@ Stuff I've played around with so far:
   - https://bartoszmilewski.com/2017/12/29/stalking-a-hylomorphism-in-the-wild/
   - https://bartoszmilewski.com/2018/08/20/recursion-schemes-for-higher-algebras/
   - https://bartoszmilewski.com/2019/03/27/promonads-arrows-and-einstein-notation-for-profunctors/
-
 - [All Concepts are Kan Extensions](www.math.harvard.edu/theses/senior/lehner/lehner.pdf)
 - [Composing bidirectional arrows bidirectionally](https://arxiv.org/pdf/1902.06950.pdf)
 - [Decisive functors](https://fplab.bitbucket.io/posts/2007-07-08-decisive-functors.html)
@@ -58,10 +57,10 @@ Stuff I've played around with so far:
 
 Need to make the parsing stuff I have work on streams of arbitrary tokens rather than just strings (hopefully making it more efficient in the process). Related reading:
 
- - [Streaming library, which provides a ListT-ish thing](https://hackage.haskell.org/package/streaming)
-   - [wip stuff for making streaming work for parsing](https://github.com/haskell-streaming/streaming-utils)
- - [Invertible syntax descriptions](http://www.informatik.uni-marburg.de/~rendel/unparse/rendel10invertible.pdf)
- - [Some kind of simplification of the concepts in the invertible syntax descriptions paper](https://blog.poisson.chat/posts/2016-10-18-typeclass-interface.html)
+- [Streaming library, which provides a ListT-ish thing](https://hackage.haskell.org/package/streaming)
+  - [wip stuff for making streaming work for parsing](https://github.com/haskell-streaming/streaming-utils)
+- [Invertible syntax descriptions](http://www.informatik.uni-marburg.de/~rendel/unparse/rendel10invertible.pdf)
+- [Some kind of simplification of the concepts in the invertible syntax descriptions paper](https://blog.poisson.chat/posts/2016-10-18-typeclass-interface.html)
 
 ## Continuations, monads, continuation monads
 
