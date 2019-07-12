@@ -52,6 +52,7 @@ Stuff I've played around with so far:
 - [A whole bunch of abstract algebra structures represented as categories](https://en.wikibooks.org/wiki/Category_Theory/Categories)
 - [An investigation of the laws of traversals](https://www.fceia.unr.edu.ar/~mauro/pubs/TraverseLaws.pdf)
 - [StackOverflow answer that points to some interesting resources about "directed containers"](https://stackoverflow.com/a/32933842/1726343)
+- [Relative monads formalized](https://pdfs.semanticscholar.org/f786/68afed254ea454285924df9ffaf0666c328d.pdf)
 
 ## Parsing
 
