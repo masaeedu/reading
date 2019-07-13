@@ -37,6 +37,7 @@ Stuff I've played around with so far:
 - http://philsci-archive.pitt.edu/11079/1/Identity_in_HTT_public.pdf
 - [Responsive compilers](https://www.youtube.com/watch?v=N6b44kMS6OM)
 - [Extensions and Applications of Higher-Order Unification](http://conal.net/papers/elliott90.pdf)
+- [Recovering Purity with Comonads and Capabilities](https://www.cl.cam.ac.uk/~nk480/popl20-cap-submission.pdf)
 
 ## Misc category theory
 
