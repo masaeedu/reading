@@ -55,6 +55,7 @@ Stuff I've played around with so far:
 - [Relative monads formalized](https://pdfs.semanticscholar.org/f786/68afed254ea454285924df9ffaf0666c328d.pdf)
 - [Trace in symmetric monoidal categories](https://arxiv.org/pdf/1107.6032.pdf)
 - [This is the co-end, my only co-friend](https://arxiv.org/pdf/1501.02503.pdf)
+- [The Mathematics of Sentence Structure](http://ling.umd.edu//~alxndrw/CGReadings/lambek-58.pdf)
 
 ## Parsing
 
