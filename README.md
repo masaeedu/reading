@@ -67,6 +67,7 @@ Need to make the parsing stuff I have work on streams of arbitrary tokens rather
 - [Some kind of simplification of the concepts in the invertible syntax descriptions paper](https://blog.poisson.chat/posts/2016-10-18-typeclass-interface.html)
 - [Type-Safe Modular Parsing](https://i.cs.hku.hk/~bruno/papers/sle17.pdf)
 - [Parser Combinators for Ambiguous Left-Recursive Grammars](http://richard.myweb.cs.uwindsor.ca/PUBLICATIONS/PREPRINT_PADL_NOV_07.pdf)
+- [PEG: Ambiguity, precision and confusion](https://jeffreykegler.github.io/Ocean-of-Awareness-blog/individual/2015/03/peg.html)
 
 ## Continuations, monads, continuation monads
 
