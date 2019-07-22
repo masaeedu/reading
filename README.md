@@ -70,6 +70,7 @@ Need to make the parsing stuff I have work on streams of arbitrary tokens rather
 - [PEG: Ambiguity, precision and confusion](https://jeffreykegler.github.io/Ocean-of-Awareness-blog/individual/2015/03/peg.html)
 - [Derivative parsers](https://arxiv.org/pdf/1010.5023.pdf)
 - [Monadic Memoization](http://richard.myweb.cs.uwindsor.ca/PUBLICATIONS/AI_03.pdf)
+- [Non-blocking lexing](http://matt.might.net/articles/nonblocking-lexing-toolkit-based-on-regex-derivatives/)
 
 ## Continuations, monads, continuation monads
 
