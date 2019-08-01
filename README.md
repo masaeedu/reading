@@ -98,6 +98,10 @@ Need to make the parsing stuff I have work on streams of arbitrary tokens rather
 - [Mayer Goldberg: A Variadic Extension of Curry's Fixed-Point Combinator](http://www.ccs.neu.edu/home/shivers/papers/scheme02/article/variadic-y.pdf)
 - [Many faces of the fixed point combinator](http://okmij.org/ftp/Computation/fixed-point-combinators.html)
 
+## Zippers
+
+ - https://en.wikibooks.org/wiki/Haskell/Zippers#Mechanical_Differentiation
+
 # Geometry
 
 ## Graph layout
