@@ -27,7 +27,7 @@ Stuff I've played around with so far:
 - [Modal logic (order goes propositional logic -> predicate logic -> modal logic)](https://en.wikipedia.org/wiki/Modal_logic)
 - [Kripke semantics](https://en.wikipedia.org/wiki/Kripke_semantics)
 
-## Misc type systems
+## Type systems
 
 - [Singleton types are sufficient to model CoC](https://www.iro.umontreal.ca/~monnier/comp-deptypes.pdf)
 - [Naive Computational Type Theory](http://www.nuprl.org/documents/Constable/naive.pdf)
@@ -38,8 +38,9 @@ Stuff I've played around with so far:
 - [Responsive compilers](https://www.youtube.com/watch?v=N6b44kMS6OM)
 - [Extensions and Applications of Higher-Order Unification](http://conal.net/papers/elliott90.pdf)
 - [Recovering Purity with Comonads and Capabilities](https://www.cl.cam.ac.uk/~nk480/popl20-cap-submission.pdf)
+- [A Lazy Language Needs a Lazy Type System](https://arxiv.org/pdf/1612.04610.pdf)
 
-## Misc category theory
+## Category theory
 
 - Futile efforts to keep up with Bartosz Milewski's prolific blog:
   - https://bartoszmilewski.com/2017/12/29/stalking-a-hylomorphism-in-the-wild/
@@ -78,7 +79,7 @@ Need to make the parsing stuff I have work on streams of arbitrary tokens rather
 - [Representing Monads 94 POPL paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.43.8213&rep=rep1&type=pdf)
 - [Capturing the future by replaying the past](https://arxiv.org/pdf/1710.10385.pdf)
 
-## Lenses, optics and their relation to user interfaces
+## Lenses, optics, user interfaces
 
 - [Taking Updates Seriously (update monad, coupdate comonad)](https://danel.ahman.ee/papers/bx17.pdf)
   - https://www.schoolofhaskell.com/user/edwardk/heap-of-successes
