@@ -40,6 +40,11 @@ Stuff I've played around with so far:
 - [Recovering Purity with Comonads and Capabilities](https://www.cl.cam.ac.uk/~nk480/popl20-cap-submission.pdf)
 - [A Lazy Language Needs a Lazy Type System](https://arxiv.org/pdf/1612.04610.pdf)
 
+### Module systems
+
+- [Modular implicits](https://arxiv.org/pdf/1512.01895.pdf)
+- [Modular typeclasses](https://www.cs.cmu.edu/~rwh/papers/mtc/short.pdf)
+
 ## Category theory
 
 - Futile efforts to keep up with Bartosz Milewski's prolific blog:
