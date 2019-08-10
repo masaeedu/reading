@@ -39,6 +39,7 @@ Stuff I've played around with so far:
 - [Extensions and Applications of Higher-Order Unification](http://conal.net/papers/elliott90.pdf)
 - [Recovering Purity with Comonads and Capabilities](https://www.cl.cam.ac.uk/~nk480/popl20-cap-submission.pdf)
 - [A Lazy Language Needs a Lazy Type System](https://arxiv.org/pdf/1612.04610.pdf)
+- [Dependently Typed Records for Representing Mathematical Structure](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.35.9569)
 
 ### Module systems
 
