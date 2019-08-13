@@ -43,6 +43,7 @@ Stuff I've played around with so far:
  - [Inductive families](http://www.cse.chalmers.se/~peterd/papers/Inductive_Families.pdf)
  - [Generic level polymorphic n-ary functions](https://gallais.github.io/pdf/tyde19.pdf)
  - [λμ calculus - An algorithmic interpretation of classical natural deduction](https://www.cs.ru.nl/~freek/courses/tt-2011/papers/parigot.pdf)
+ - [Syntax and Semantics of Quantitative Type Theory](https://bentnib.org/quantitative-type-theory.pdf)
 
 ### Module systems
 
