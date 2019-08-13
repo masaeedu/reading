@@ -40,6 +40,9 @@ Stuff I've played around with so far:
 - [Recovering Purity with Comonads and Capabilities](https://www.cl.cam.ac.uk/~nk480/popl20-cap-submission.pdf)
 - [A Lazy Language Needs a Lazy Type System](https://arxiv.org/pdf/1612.04610.pdf)
 - [Dependently Typed Records for Representing Mathematical Structure](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.35.9569)
+ - [Inductive families](http://www.cse.chalmers.se/~peterd/papers/Inductive_Families.pdf)
+ - [Generic level polymorphic n-ary functions](https://gallais.github.io/pdf/tyde19.pdf)
+ - [λμ calculus - An algorithmic interpretation of classical natural deduction](https://www.cs.ru.nl/~freek/courses/tt-2011/papers/parigot.pdf)
 
 ### Module systems
 
