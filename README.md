@@ -49,6 +49,7 @@ Stuff I've played around with so far:
 
 - [Modular implicits](https://arxiv.org/pdf/1512.01895.pdf)
 - [Modular typeclasses](https://www.cs.cmu.edu/~rwh/papers/mtc/short.pdf)
+- [Polymorphism, Subtyping, and Type Inference in MLSub](https://www.cl.cam.ac.uk/~sd601/papers/mlsub-preprint.pdf)
 
 ## Category theory
 
