@@ -52,6 +52,10 @@ Stuff I've played around with so far:
 - [Modular typeclasses](https://www.cs.cmu.edu/~rwh/papers/mtc/short.pdf)
 - [Polymorphism, Subtyping, and Type Inference in MLSub](https://www.cl.cam.ac.uk/~sd601/papers/mlsub-preprint.pdf)
 
+### Typeclasses
+
+ - [Type-level instant insanity](https://wiki.haskell.org/wikiupload/d/dd/TMR-Issue8.pdf)
+
 ## Category theory
 
 - Futile efforts to keep up with Bartosz Milewski's prolific blog:
