@@ -119,6 +119,9 @@ Need to make the parsing stuff I have work on streams of arbitrary tokens rather
 
  - https://en.wikibooks.org/wiki/Haskell/Zippers#Mechanical_Differentiation
 
+## Performance
+ - [The Worker Wrapper Transformation](http://www.cs.nott.ac.uk/~pszgmh/hackett-thesis.pdf)
+
 # Geometry
 
 ## Graph layout
