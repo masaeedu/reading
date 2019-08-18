@@ -45,6 +45,7 @@ Stuff I've played around with so far:
  - [λμ calculus - An algorithmic interpretation of classical natural deduction](https://www.cs.ru.nl/~freek/courses/tt-2011/papers/parigot.pdf)
  - [Syntax and Semantics of Quantitative Type Theory](https://bentnib.org/quantitative-type-theory.pdf)
  - [On the Size of Machines (Blum Size Theorem)](https://www.dropbox.com/s/93727ua10ccv8f5/sizethm.pdf)
+ - [Type is an extensible GADT](https://blog.poisson.chat/posts/2018-07-09-type-gadt.html)
 
 ### Module systems
 
