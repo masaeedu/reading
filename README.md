@@ -122,6 +122,10 @@ Need to make the parsing stuff I have work on streams of arbitrary tokens rather
 ## Performance
  - [The Worker Wrapper Transformation](http://www.cs.nott.ac.uk/~pszgmh/hackett-thesis.pdf)
 
+## Metaprogramming
+
+ - [Typeable and Data in Haskell](https://chrisdone.com/posts/data-typeable/)
+
 # Geometry
 
 ## Graph layout
