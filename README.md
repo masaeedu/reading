@@ -90,6 +90,7 @@ Need to make the parsing stuff I have work on streams of arbitrary tokens rather
 - [Derivative parsers](https://arxiv.org/pdf/1010.5023.pdf)
 - [Monadic Memoization](http://richard.myweb.cs.uwindsor.ca/PUBLICATIONS/AI_03.pdf)
 - [Non-blocking lexing](http://matt.might.net/articles/nonblocking-lexing-toolkit-based-on-regex-derivatives/)
+- [agdarsec - Total Parser Combinators](https://gallais.github.io/pdf/agdarsec18.pdf)
 
 ## Continuations, monads, continuation monads
 
