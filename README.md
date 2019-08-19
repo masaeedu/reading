@@ -56,6 +56,7 @@ Stuff I've played around with so far:
 ### Typeclasses
 
  - [Type-level instant insanity](https://wiki.haskell.org/wikiupload/d/dd/TMR-Issue8.pdf)
+ - [Coherent Explicit Dictionary Application for Haskell](https://lirias.kuleuven.be/retrieve/519822/)
 
 ## Category theory
 
