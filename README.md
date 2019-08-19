@@ -74,6 +74,7 @@ Stuff I've played around with so far:
 - [Trace in symmetric monoidal categories](https://arxiv.org/pdf/1107.6032.pdf)
 - [This is the co-end, my only co-friend](https://arxiv.org/pdf/1501.02503.pdf)
 - [The Mathematics of Sentence Structure](http://ling.umd.edu//~alxndrw/CGReadings/lambek-58.pdf)
+- [Modality via Iterated Enrichment](https://arxiv.org/pdf/1804.02809.pdf)
 
 ## Parsing
 
