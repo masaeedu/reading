@@ -1,4 +1,4 @@
-# Functional programming
+# Programming
 
 ## Extensible effects
 
@@ -129,6 +129,12 @@ Need to make the parsing stuff I have work on streams of arbitrary tokens rather
 ## Metaprogramming
 
  - [Typeable and Data in Haskell](https://chrisdone.com/posts/data-typeable/)
+
+## Lisp
+
+ - [beautifulracket.com blog][https://beautifulracket.com]
+   - https://beautifulracket.com/appendix/why-racket-why-lisp.html
+   - https://beautifulracket.com/appendix/why-lop-why-racket.html
 
 # Geometry
 
