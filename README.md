@@ -132,7 +132,7 @@ Need to make the parsing stuff I have work on streams of arbitrary tokens rather
 
 ## Lisp
 
- - [beautifulracket.com blog][https://beautifulracket.com]
+ - [beautifulracket.com blog](https://beautifulracket.com)
    - https://beautifulracket.com/appendix/why-racket-why-lisp.html
    - https://beautifulracket.com/appendix/why-lop-why-racket.html
 
