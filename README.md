@@ -148,6 +148,7 @@ To answer the question rigorously, I need to do some reading:
 - [The Mathematics of Sentence Structure](http://ling.umd.edu//~alxndrw/CGReadings/lambek-58.pdf)
 - [Modality via Iterated Enrichment](https://arxiv.org/pdf/1804.02809.pdf)
 - [Relating Structure and Power - Comonadic Semantics for Computational Resources](https://www.coalg.org/cmcs18/files/2018/04/Abramsky.pdf)
+- [The Pebbling Comonad in Finite Model Theory](https://arxiv.org/pdf/1704.05124.pdf)
 
 ## Logic
 
