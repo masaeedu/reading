@@ -29,6 +29,7 @@
  - [On the Size of Machines (Blum Size Theorem)](https://www.dropbox.com/s/93727ua10ccv8f5/sizethm.pdf)
  - [Type is an extensible GADT](https://blog.poisson.chat/posts/2018-07-09-type-gadt.html)
  - [Isomorphic Reasoning: Counting PolymorphicType Inhabitants](https://github.com/cohomolo-gy/Isomorphic-Reasoning)
+ - [Counting type inhabitants](https://alexknvl.com/posts/counting-type-inhabitants.html)
 
 ### Module systems
 
