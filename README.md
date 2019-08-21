@@ -28,6 +28,7 @@
  - [Syntax and Semantics of Quantitative Type Theory](https://bentnib.org/quantitative-type-theory.pdf)
  - [On the Size of Machines (Blum Size Theorem)](https://www.dropbox.com/s/93727ua10ccv8f5/sizethm.pdf)
  - [Type is an extensible GADT](https://blog.poisson.chat/posts/2018-07-09-type-gadt.html)
+ - [Isomorphic Reasoning: Counting PolymorphicType Inhabitants](https://github.com/cohomolo-gy/Isomorphic-Reasoning)
 
 ### Module systems
 
@@ -72,6 +73,7 @@ Need to make the parsing stuff I have work on streams of arbitrary tokens rather
 - https://danel.ahman.ee/papers/types13postproc.pdf
 - [Categories of optics](https://arxiv.org/pdf/1809.00738.pdf)
 - [Composing bidirectional programs monadically](https://arxiv.org/pdf/1902.06950.pdf)
+- [Lenses for philosophers](https://julesh.com/2018/08/16/lenses-for-philosophers/)]
 
 ## Testing
 
