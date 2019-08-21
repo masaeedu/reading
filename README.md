@@ -59,24 +59,6 @@ Stuff I've played around with so far:
  - [Coherent Explicit Dictionary Application for Haskell](https://lirias.kuleuven.be/retrieve/519822/)
  - [Type Classes Reflect the Value of Types](http://okmij.org/ftp/Haskell/tr-15-04.pdf)
 
-## Category theory
-
-- Futile efforts to keep up with Bartosz Milewski's prolific blog:
-  - https://bartoszmilewski.com/2017/12/29/stalking-a-hylomorphism-in-the-wild/
-  - https://bartoszmilewski.com/2018/08/20/recursion-schemes-for-higher-algebras/
-  - https://bartoszmilewski.com/2019/03/27/promonads-arrows-and-einstein-notation-for-profunctors/
-- [All Concepts are Kan Extensions](www.math.harvard.edu/theses/senior/lehner/lehner.pdf)
-- [Decisive functors](https://fplab.bitbucket.io/posts/2007-07-08-decisive-functors.html)
-  - I suspect that the interaction between traversable and applicative functors can be dualized to an interaction between distributive and decisive functors
-- [A whole bunch of abstract algebra structures represented as categories](https://en.wikibooks.org/wiki/Category_Theory/Categories)
-- [An investigation of the laws of traversals](https://www.fceia.unr.edu.ar/~mauro/pubs/TraverseLaws.pdf)
-- [StackOverflow answer that points to some interesting resources about "directed containers"](https://stackoverflow.com/a/32933842/1726343)
-- [Relative monads formalized](https://pdfs.semanticscholar.org/f786/68afed254ea454285924df9ffaf0666c328d.pdf)
-- [Trace in symmetric monoidal categories](https://arxiv.org/pdf/1107.6032.pdf)
-- [This is the co-end, my only co-friend](https://arxiv.org/pdf/1501.02503.pdf)
-- [The Mathematics of Sentence Structure](http://ling.umd.edu//~alxndrw/CGReadings/lambek-58.pdf)
-- [Modality via Iterated Enrichment](https://arxiv.org/pdf/1804.02809.pdf)
-
 ## Parsing
 
 Need to make the parsing stuff I have work on streams of arbitrary tokens rather than just strings (hopefully making it more efficient in the process). Related reading:
@@ -137,16 +119,43 @@ Need to make the parsing stuff I have work on streams of arbitrary tokens rather
    - https://beautifulracket.com/appendix/why-racket-why-lisp.html
    - https://beautifulracket.com/appendix/why-lop-why-racket.html
 
-# Geometry
+# Math
 
-## Graph layout
+## Category Theory
+
+- Futile efforts to keep up with Bartosz Milewski's prolific blog:
+  - https://bartoszmilewski.com/2017/12/29/stalking-a-hylomorphism-in-the-wild/
+  - https://bartoszmilewski.com/2018/08/20/recursion-schemes-for-higher-algebras/
+  - https://bartoszmilewski.com/2019/03/27/promonads-arrows-and-einstein-notation-for-profunctors/
+- [All Concepts are Kan Extensions](www.math.harvard.edu/theses/senior/lehner/lehner.pdf)
+- [Decisive functors](https://fplab.bitbucket.io/posts/2007-07-08-decisive-functors.html)
+  - I suspect that the interaction between traversable and applicative functors can be dualized to an interaction between distributive and decisive functors
+- [A whole bunch of abstract algebra structures represented as categories](https://en.wikibooks.org/wiki/Category_Theory/Categories)
+- [An investigation of the laws of traversals](https://www.fceia.unr.edu.ar/~mauro/pubs/TraverseLaws.pdf)
+- [StackOverflow answer that points to some interesting resources about "directed containers"](https://stackoverflow.com/a/32933842/1726343)
+- [Relative monads formalized](https://pdfs.semanticscholar.org/f786/68afed254ea454285924df9ffaf0666c328d.pdf)
+- [Trace in symmetric monoidal categories](https://arxiv.org/pdf/1107.6032.pdf)
+- [This is the co-end, my only co-friend](https://arxiv.org/pdf/1501.02503.pdf)
+- [The Mathematics of Sentence Structure](http://ling.umd.edu//~alxndrw/CGReadings/lambek-58.pdf)
+- [Modality via Iterated Enrichment](https://arxiv.org/pdf/1804.02809.pdf)
+
+## Model theory
+
+### Ehrenfeucht–Fraïssé games
+
+- http://www.math.toronto.edu/rossman/EFgames-lecture.pdf
+- https://en.wikipedia.org/wiki/Ehrenfeucht%E2%80%93Fra%C3%AFss%C3%A9_game
+
+## Geometry
+
+### Graph layout
 
 I want to build a 3D git repo visualizer. Need to learn more about graph/tree layout algorithms esp in 3D:
 
 - [Tree Drawing Algorithms and Tree Visualisation Methods (slides)](http://www.it.usyd.edu.au/~shhong/comp5048-lec2.pdf)
 - [Cool hyperbolic geometry approach for rendering graphs using a spanning tree](https://graphics.stanford.edu/papers/h3cga/html/)
 
-## Vector algebra
+### Vector algebra
 
 I want to render a game of life in toroidal coordinates on an actual torus. I started implementing my own vector algebra library using some generalized n-dimensional vector math stuff, but then became intrigued by what the generalization of the cross product to n-dimensions would be. Turns out this is called the Hodge Star operator. In the course of learning about this, I discovered a rabbithole of interesting things to read:
 
