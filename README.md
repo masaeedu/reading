@@ -1,24 +1,6 @@
 # Programming
 
-## Extensible effects
 
-### Higher order effects
-
-What is the theoretical underpinning of the `polysemy` extensible effects library? My suspicion is that it is a free functor of some kind, probably the free functor from the category of monad transformers to the category of monads.
-
-To answer the question rigorously, I need to do some reading:
-
-- [Free monad transformers blog post](https://blog.poisson.chat/posts/2017-05-28-free-monad-transformers.html)
-- [Monad transformers and algebraic effects; what binds them together](http://www.cs.kuleuven.be/publicaties/rapporten/cw/CW699.pdf)
-- [Extensible effects in scope](http://www.cs.ox.ac.uk/people/nicolas.wu/papers/Scope.pdf)
-- [Monad transformers as monoid transformers](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.163.4895&rep=rep1&type=pdf)
-- [Semantics for algebraic operations](http://homepages.inf.ed.ac.uk/gdp/publications/sem_alg_ops.pdf)
-- [Monatron](https://www.fceia.unr.edu.ar/~mauro/pubs/monatron.pdf)
-- [polysemy codebase](https://github.com/isovector/polysemy)
-
-Stuff I've played around with so far:
-
-- [Encoding first order extensible effects using the church encoded FreerT](https://github.com/masaeedu/freert-effs)
 
 ## Curry-Howard correspondence
 
@@ -118,6 +100,33 @@ Need to make the parsing stuff I have work on streams of arbitrary tokens rather
  - [beautifulracket.com blog](https://beautifulracket.com)
    - https://beautifulracket.com/appendix/why-racket-why-lisp.html
    - https://beautifulracket.com/appendix/why-lop-why-racket.html
+
+## Extensible effects
+
+### Free(r) monad
+
+- [Free monad transformers blog post](https://blog.poisson.chat/posts/2017-05-28-free-monad-transformers.html)
+- [Free/forgetful functor adjunctions](https://ncatlab.org/nlab/show/free+functor)
+
+Stuff I've played around with so far:
+
+- [Encoding first order extensible effects using the church encoded FreerT](https://github.com/masaeedu/freert-effs)
+
+### Monad transformers
+
+- [Monatron](https://www.fceia.unr.edu.ar/~mauro/pubs/monatron.pdf)
+- [Monad transformers as monoid transformers](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.163.4895&rep=rep1&type=pdf)
+- [Monad transformers and algebraic effects; what binds them together](http://www.cs.kuleuven.be/publicaties/rapporten/cw/CW699.pdf)
+
+### Higher order effects
+
+What is the theoretical underpinning of the `polysemy` extensible effects library? My suspicion is that it is a free functor of some kind, probably the free functor from the category of monad transformers to the category of monads.
+
+To answer the question rigorously, I need to do some reading:
+
+- [Extensible effects in scope](http://www.cs.ox.ac.uk/people/nicolas.wu/papers/Scope.pdf)
+- [Semantics for algebraic operations](http://homepages.inf.ed.ac.uk/gdp/publications/sem_alg_ops.pdf)
+- [polysemy codebase](https://github.com/isovector/polysemy)
 
 # Math
 
