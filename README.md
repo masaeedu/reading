@@ -147,7 +147,7 @@ To answer the question rigorously, I need to do some reading:
 - [This is the co-end, my only co-friend](https://arxiv.org/pdf/1501.02503.pdf)
 - [The Mathematics of Sentence Structure](http://ling.umd.edu//~alxndrw/CGReadings/lambek-58.pdf)
 - [Modality via Iterated Enrichment](https://arxiv.org/pdf/1804.02809.pdf)
-- [Relating Structure and Power - Comonadic Semantics for Computational Resources](https://www.coalg.org/cmcs18/files/2018/04/Abramsky.pdf)
+- [Relating Structure and Power - Comonadic Semantics for Computational Resources](http://drops.dagstuhl.de/opus/volltexte/2018/9669/pdf/LIPIcs-CSL-2018-2.pdf)
 - [The Pebbling Comonad in Finite Model Theory](https://arxiv.org/pdf/1704.05124.pdf)
 
 ## Logic
