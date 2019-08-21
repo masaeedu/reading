@@ -181,3 +181,10 @@ I want to render a game of life in toroidal coordinates on an actual torus. I st
 Stuff I've played around with so far:
 
 - [Implementation of game of life using traced comonad (traced probably works out really great for concatenating matrix transforms and doing relative coordinates in nD)](https://ywvr561j8z.codesandbox.io/)
+
+
+# Misc. blogs
+
+- https://alexknvl.com
+- https://coot.me/
+- https://bartoszmilewski.com/
