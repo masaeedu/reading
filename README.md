@@ -139,7 +139,7 @@ Need to make the parsing stuff I have work on streams of arbitrary tokens rather
 - [The Mathematics of Sentence Structure](http://ling.umd.edu//~alxndrw/CGReadings/lambek-58.pdf)
 - [Modality via Iterated Enrichment](https://arxiv.org/pdf/1804.02809.pdf)
 
-## Model theory
+## Logic
 
 ### Ehrenfeucht–Fraïssé games
 
