@@ -57,6 +57,7 @@ Stuff I've played around with so far:
 
  - [Type-level instant insanity](https://wiki.haskell.org/wikiupload/d/dd/TMR-Issue8.pdf)
  - [Coherent Explicit Dictionary Application for Haskell](https://lirias.kuleuven.be/retrieve/519822/)
+ - [Type Classes Reflect the Value of Types](http://okmij.org/ftp/Haskell/tr-15-04.pdf)
 
 ## Category theory
 
