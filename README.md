@@ -30,6 +30,7 @@
  - [Type is an extensible GADT](https://blog.poisson.chat/posts/2018-07-09-type-gadt.html)
  - [Isomorphic Reasoning: Counting PolymorphicType Inhabitants](https://github.com/cohomolo-gy/Isomorphic-Reasoning)
  - [Counting type inhabitants](https://alexknvl.com/posts/counting-type-inhabitants.html)
+ - [A Foundation for GADTs and Inductive Families - Dependent Polynomial Functor Approach](https://www.cl.cam.ac.uk/~mpf23/papers/Types/gadtif.pdf)
 
 ### Module systems
 
