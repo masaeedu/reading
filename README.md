@@ -164,7 +164,12 @@ To answer the question rigorously, I need to do some reading:
 
 ## Geometry
 
+### Collision detection
+
+I suspect that finding collisions between shapes (or convex hulls of shapes) has something to do with a lattice of shapes under inclusion as binary relation, intersection as meet, union as join.
+
 - [On lattices of convex sets in R^n](https://arxiv.org/pdf/math/0409288.pdf)
+- [On Proximity Problems in Open Spaces](https://curve.carleton.ca/system/files/etd/18d4b057-f42a-49e9-b943-ca43ee5cd76d/etd_pdf/ff64c38b3d8b80d6279ddf33bce507fc/barbaflores-onproximityproblemsineuclideanspaces.pdf)
 
 ### Graph layout
 
