@@ -164,6 +164,8 @@ To answer the question rigorously, I need to do some reading:
 
 ## Geometry
 
+- [On lattices of convex sets in R^n](https://arxiv.org/pdf/math/0409288.pdf)
+
 ### Graph layout
 
 I want to build a 3D git repo visualizer. Need to learn more about graph/tree layout algorithms esp in 3D:
