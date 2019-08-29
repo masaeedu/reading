@@ -183,6 +183,9 @@ Stuff I've played around with so far:
 
 - [Implementation of game of life using traced comonad (traced probably works out really great for concatenating matrix transforms and doing relative coordinates in nD)](https://ywvr561j8z.codesandbox.io/)
 
+## Topology
+
+@monoidmusician suggested https://mathoverflow.net/questions/19152/why-is-a-topology-made-up-of-open-sets as an entrypoint into topology stuff.
 
 # Misc. blogs
 
