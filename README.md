@@ -171,6 +171,12 @@ I suspect that finding collisions between shapes (or convex hulls of shapes) has
 - [On lattices of convex sets in R^n](https://arxiv.org/pdf/math/0409288.pdf)
 - [On Proximity Problems in Open Spaces](https://curve.carleton.ca/system/files/etd/18d4b057-f42a-49e9-b943-ca43ee5cd76d/etd_pdf/ff64c38b3d8b80d6279ddf33bce507fc/barbaflores-onproximityproblemsineuclideanspaces.pdf)
 
+The approach I was considering was to only admit circular subsets of points from a given canvas. Then the meet operation and join operation consists of picking a circle inscribed in the intersection of the two provided circles, and a circle just barely enclosing the two provided circles, respectively. Apparently the latter is a "closure operator", which taking convex hulls is also. The operation of taking the convex hull of the superposition of the provided shapes, when taken as the join operation, actually forms a proper join-semilattice. So maybe this wrapping circle business (or an adjustment of it) does too? Someone pointed out there might be problems with associativity.
+
+Anyway here's a paper about closure operators and lattices:
+
+- [Closure operators on sets and algebraic lattices](https://pdfs.semanticscholar.org/2fc9/320b490cfb8d759f6ec0fb9697434e6ddc78.pdf)
+
 ### Graph layout
 
 I want to build a 3D git repo visualizer. Need to learn more about graph/tree layout algorithms esp in 3D:
