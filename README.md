@@ -153,6 +153,7 @@ To answer the question rigorously, I need to do some reading:
 - [Modality via Iterated Enrichment](https://arxiv.org/pdf/1804.02809.pdf)
 - [Relating Structure and Power - Comonadic Semantics for Computational Resources](http://drops.dagstuhl.de/opus/volltexte/2018/9669/pdf/LIPIcs-CSL-2018-2.pdf)
 - [The Pebbling Comonad in Finite Model Theory](https://arxiv.org/pdf/1704.05124.pdf)
+- [From parametricity to conservation laws, via Noether's theorem](https://dl.acm.org/citation.cfm?id=2535867)
 
 ## Logic
 
