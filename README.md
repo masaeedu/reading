@@ -1,7 +1,5 @@
 # Programming
 
-
-
 ## Curry-Howard correspondence
 
 - [A Formulae-as-Types Notion of Control](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=539A05FBC2F509D4F2DF59702F69566E?doi=10.1.1.26.6893&rep=rep1&type=pdf)
@@ -131,6 +129,12 @@ To answer the question rigorously, I need to do some reading:
 - [Extensible effects in scope](http://www.cs.ox.ac.uk/people/nicolas.wu/papers/Scope.pdf)
 - [Semantics for algebraic operations](http://homepages.inf.ed.ac.uk/gdp/publications/sem_alg_ops.pdf)
 - [polysemy codebase](https://github.com/isovector/polysemy)
+
+# Devops
+
+## Nix
+
+- [Nix: under the hood](https://github.com/Gabriel439/slides/blob/master/nix-internals/slides.md)
 
 # Math
 
