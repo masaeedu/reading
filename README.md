@@ -130,6 +130,9 @@ To answer the question rigorously, I need to do some reading:
 - [Semantics for algebraic operations](http://homepages.inf.ed.ac.uk/gdp/publications/sem_alg_ops.pdf)
 - [polysemy codebase](https://github.com/isovector/polysemy)
 
+### Refactoring
+- [Defunctionalization: the best refactoring you've never heard of](http://www.pathsensitive.com/2019/07/the-best-refactoring-youve-never-heard.html)
+
 # Devops
 
 ## Nix
