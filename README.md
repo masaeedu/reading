@@ -161,6 +161,7 @@ To answer the question rigorously, I need to do some reading:
 - [Relating Structure and Power - Comonadic Semantics for Computational Resources](http://drops.dagstuhl.de/opus/volltexte/2018/9669/pdf/LIPIcs-CSL-2018-2.pdf)
 - [The Pebbling Comonad in Finite Model Theory](https://arxiv.org/pdf/1704.05124.pdf)
 - [From parametricity to conservation laws, via Noether's theorem](https://dl.acm.org/citation.cfm?id=2535867)
+- [Joachim Kock's "Notes on Polynomial Functors"](https://hackage.haskell.org/package/representable-functors-3.2.0.2/docs/Data-Functor-Representable.html) (lots of good stuff on universal algebra and operads and whatnot when you get around to learning those)
 
 ## Logic
 
