@@ -162,6 +162,7 @@ To answer the question rigorously, I need to do some reading:
 - [The Pebbling Comonad in Finite Model Theory](https://arxiv.org/pdf/1704.05124.pdf)
 - [From parametricity to conservation laws, via Noether's theorem](https://dl.acm.org/citation.cfm?id=2535867)
 - [Joachim Kock's "Notes on Polynomial Functors"](http://mat.uab.cat/~kock/cat/polynomial.pdf) (lots of good stuff on universal algebra and operads and whatnot when you get around to learning those)
+- [Theoretical Pearl - Monads from Comonads, Comonads from Monads](http://www.cs.ox.ac.uk/ralf.hinze/WG2.8/28/slides/Comonad.pdf)
 
 ## Logic
 
