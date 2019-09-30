@@ -120,6 +120,7 @@ Stuff I've played around with so far:
 - [Monatron](https://www.fceia.unr.edu.ar/~mauro/pubs/monatron.pdf)
 - [Monad transformers as monoid transformers](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.163.4895&rep=rep1&type=pdf)
 - [Monad transformers and algebraic effects; what binds them together](http://www.cs.kuleuven.be/publicaties/rapporten/cw/CW699.pdf)
+- [Composing monads](http://web.cecs.pdx.edu/~mpj/pubs/RR-1004.pdf)
 
 ### Higher order effects
 
