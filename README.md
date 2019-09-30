@@ -30,6 +30,7 @@
  - [Counting type inhabitants](https://alexknvl.com/posts/counting-type-inhabitants.html)
  - [A Foundation for GADTs and Inductive Families - Dependent Polynomial Functor Approach](https://www.cl.cam.ac.uk/~mpf23/papers/Types/gadtif.pdf)
  - [Giving Haskell a Promotion](https://www.seas.upenn.edu/~sweirich/papers/tldi12.pdf)
+ - [Substructural Type Systems](http://mitp-content-server.mit.edu:18180/books/content/sectbyfn?collid=books_pres_0&id=1104&fn=9780262162289_sch_0001.pdf)
 
 ### Module systems
 
