@@ -61,6 +61,11 @@ Need to make the parsing stuff I have work on streams of arbitrary tokens rather
 - [Non-blocking lexing](http://matt.might.net/articles/nonblocking-lexing-toolkit-based-on-regex-derivatives/)
 - [agdarsec - Total Parser Combinators](https://gallais.github.io/pdf/agdarsec18.pdf)
 
+## Parallelism
+
+- [A Monad for Deterministic Parallelism](https://cs.indiana.edu/~rrnewton/papers/haskell2011_monad-par.pdf)
+- [A Meta-Scheduler for the Par Monad](https://www.cs.indiana.edu/~rrnewton/papers/2012-ICFP_meta-par.pdf)
+
 ## Continuations, monads, continuation monads
 
 - [Monadic Reflection in Haskell slides (Andrzej Filinski)](http://cs.ioc.ee/mpc-amast06/msfp/filinski-slides.pdf)
