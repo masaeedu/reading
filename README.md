@@ -174,6 +174,7 @@ To answer the question rigorously, I need to do some reading:
 - [Joachim Kock's "Notes on Polynomial Functors"](http://mat.uab.cat/~kock/cat/polynomial.pdf) (lots of good stuff on universal algebra and operads and whatnot when you get around to learning those)
 - [Theoretical Pearl - Monads from Comonads, Comonads from Monads](http://www.cs.ox.ac.uk/ralf.hinze/WG2.8/28/slides/Comonad.pdf)
 - [Bi-actegories](https://www2.irb.hr/korisnici/zskoda/biact.pdf) (stuff related to the equivalent of modules/bimodules but at the level of categories as sets and bifunctors as left/right actions)
+  - [Distributive laws for actions of monoidal categories](https://arxiv.org/pdf/math/0406310.pdf)
 
 ## Logic
 
