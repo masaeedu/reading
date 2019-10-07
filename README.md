@@ -199,12 +199,13 @@ Anyway here's a paper about closure operators and lattices:
 
 - [Closure operators on sets and algebraic lattices](https://pdfs.semanticscholar.org/2fc9/320b490cfb8d759f6ec0fb9697434e6ddc78.pdf)
 
-### Graph layout
+### Graphs
 
 I want to build a 3D git repo visualizer. Need to learn more about graph/tree layout algorithms esp in 3D:
 
 - [Tree Drawing Algorithms and Tree Visualisation Methods (slides)](http://www.it.usyd.edu.au/~shhong/comp5048-lec2.pdf)
 - [Cool hyperbolic geometry approach for rendering graphs using a spanning tree](https://graphics.stanford.edu/papers/h3cga/html/)
+- [Algebraic Graphs with Class](https://eprint.ncl.ac.uk/file_store/production/239461/EF82F5FE-66E3-4F64-A1AC-A366D1961738.pdf)
 
 ### Vector algebra
 
