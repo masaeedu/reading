@@ -73,7 +73,7 @@ Need to make the parsing stuff I have work on streams of arbitrary tokens rather
 - [Capturing the future by replaying the past](https://arxiv.org/pdf/1710.10385.pdf)
 - [A monadic framework for delimited continuations](https://cs.indiana.edu/~sabry/papers/monadicDC.pdf)
 
-## Bidirectional programming
+## Bidirectional programming, optics
 
 - [Taking Updates Seriously (update monad, coupdate comonad)](https://danel.ahman.ee/papers/bx17.pdf)
   - https://www.schoolofhaskell.com/user/edwardk/heap-of-successes
@@ -83,6 +83,7 @@ Need to make the parsing stuff I have work on streams of arbitrary tokens rather
 - [Categories of optics](https://arxiv.org/pdf/1809.00738.pdf)
 - [Composing bidirectional programs monadically](https://arxiv.org/pdf/1902.06950.pdf)
 - [Lenses for philosophers](https://julesh.com/2018/08/16/lenses-for-philosophers/)
+- [Profunctor Optics - A Categorical Update](http://events.cs.bham.ac.uk/syco/strings3-syco5/slides/roman.pdf)
 
 ## Testing
 
