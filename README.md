@@ -207,6 +207,7 @@ I want to build a 3D git repo visualizer. Need to learn more about graph/tree la
 - [Cool hyperbolic geometry approach for rendering graphs using a spanning tree](https://graphics.stanford.edu/papers/h3cga/html/)
 - [Algebraic Graphs with Class](https://eprint.ncl.ac.uk/file_store/production/239461/EF82F5FE-66E3-4F64-A1AC-A366D1961738.pdf)
 - [Directed hypergraphs and applications](https://www.sciencedirect.com/science/article/pii/0166218X9390045P)
+- [Algebra of parametrized graphs](https://pdfs.semanticscholar.org/fc44/cab864acb7e5ea07e04018d39f585e02d52c.pdf)
 
 ### Vector algebra
 
