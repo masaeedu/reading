@@ -181,6 +181,12 @@ To answer the question rigorously, I need to do some reading:
 - http://www.brendanfong.com/
 - [The Algebra of Open and Interconnected Systems](https://arxiv.org/pdf/1609.05382.pdf) - apparently there is some good stuff about hypergraphs in here
 
+### Monoidal functors
+Need to find some information about things that are between lax and strong monoidal functors: the coherence map for the opposite functor is a retraction/section for the coherence map of the functor, but they do not form a full isomorphism. Some promising search results:
+
+- [Monoidal categories in, and linking, geometry and algebra](https://arxiv.org/pdf/1201.2991.pdf)
+- [The problem with Lax Functors (see comments)](https://golem.ph.utexas.edu/category/2009/12/the_problem_with_lax_functors.html)
+
 ## Logic
 
 ### Ehrenfeucht–Fraïssé games
