@@ -187,6 +187,14 @@ Need to find some information about things that are between lax and strong monoi
 - [Monoidal categories in, and linking, geometry and algebra](https://arxiv.org/pdf/1201.2991.pdf)
 - [The problem with Lax Functors (see comments)](https://golem.ph.utexas.edu/category/2009/12/the_problem_with_lax_functors.html)
 
+### Enrichment
+
+My understanding of enrichment still needs a lot of work. I think a good path forward is to study:
+
+1. [A 2-categories companion (some kind of course material explaining 2-categories and bicategories)](https://www.math.uchicago.edu/~may/IMA/Incoming/Lack/companion.pdf)
+2. [Basic Bicategories (to understand the concept of a bicategory, a weakening of the definition of a 2-category)](https://arxiv.org/pdf/math/9810017.pdf)
+3. ??? (maybe try and represent some monoids objects not in `(,)` as enriched single object categories, and study how monoidal functors interact with them)
+
 ## Logic
 
 ### Ehrenfeucht–Fraïssé games
