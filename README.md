@@ -61,6 +61,11 @@ Need to make the parsing stuff I have work on streams of arbitrary tokens rather
 - [Non-blocking lexing](http://matt.might.net/articles/nonblocking-lexing-toolkit-based-on-regex-derivatives/)
 - [agdarsec - Total Parser Combinators](https://gallais.github.io/pdf/agdarsec18.pdf)
 
+I want to be able to associate recursive ADTs with recursive regexen for simple parsing of context free grammars. Here's some relevant resources:
+
+- [From μ-regular expressions to context-free grammars and back](https://www.cs.ru.nl/bachelors-theses/2018/Bart_Gruppen___4465784___From_mu-regular_expressions_to_CFGs_and_back.pdf)
+- [Partial Derivatives for Context-Free Languages](https://arxiv.org/pdf/1610.06832.pdf)
+
 ## Parallelism
 
 - [A Monad for Deterministic Parallelism](https://cs.indiana.edu/~rrnewton/papers/haskell2011_monad-par.pdf)
