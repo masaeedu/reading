@@ -33,6 +33,11 @@
  - [Substructural Type Systems](http://mitp-content-server.mit.edu:18180/books/content/sectbyfn?collid=books_pres_0&id=1104&fn=9780262162289_sch_0001.pdf)
  - [A Hands On Introduction to Cubical Type Theory](https://homotopytypetheory.org/2017/09/16/a-hands-on-introduction-to-cubicaltt/)
 
+Are ADTs an essential primitive of a sufficiently expressive dependent type system? Based on how things work out computationally in untyped JS, it would be really nice if the answer was "no". Here are some links that seem to provide promising evidence for that hypothesis:
+
+- http://www.larrytheliquid.com/drafts/generic-elim.pdf
+- https://www.ioc.ee/~james/papers/levitation.pdf
+
 ### Module systems
 
 - [Modular implicits](https://arxiv.org/pdf/1512.01895.pdf)
