@@ -105,6 +105,7 @@ I want to be able to associate recursive ADTs with recursive regexen for simple 
 
 - [Mayer Goldberg: A Variadic Extension of Curry's Fixed-Point Combinator](http://www.ccs.neu.edu/home/shivers/papers/scheme02/article/variadic-y.pdf)
 - [Many faces of the fixed point combinator](http://okmij.org/ftp/Computation/fixed-point-combinators.html)
+- [Factorising functions for faster functions](https://www.fceia.unr.edu.ar/~mauro/pubs/f5-ext.pdf)
 
 ## Zippers
 
