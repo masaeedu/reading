@@ -197,6 +197,11 @@ Need to find some information about things that are between lax and strong monoi
 - [Monoidal categories in, and linking, geometry and algebra](https://arxiv.org/pdf/1201.2991.pdf)
 - [The problem with Lax Functors (see comments)](https://golem.ph.utexas.edu/category/2009/12/the_problem_with_lax_functors.html)
 
+There's also some stuff about the interaction of applicatives and alternatives with monads (i.e. the functor composition monoidal structure) a lot of it by Mauro Jaskellioff:
+
+- [A Unified View of Monadic and ApplicativeNon-determinism](https://www.fceia.unr.edu.ar/~mauro/pubs/UnifiedND.pdf)
+- [From monoids to near semirings, the essence of `MonadPlus` and `Alternative`](https://usuarios.fceia.unr.edu.ar/~mauro/pubs/FromMonoidstoNearsemirings.pdf)
+
 ### Enrichment
 
 My understanding of enrichment still needs a lot of work. I think a good path forward is to study:
