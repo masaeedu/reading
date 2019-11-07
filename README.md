@@ -109,20 +109,21 @@ I want to be able to associate recursive ADTs with recursive regexen for simple 
 
 ## Zippers
 
- - https://en.wikibooks.org/wiki/Haskell/Zippers#Mechanical_Differentiation
+- https://en.wikibooks.org/wiki/Haskell/Zippers#Mechanical_Differentiation
 
 ## Performance
- - [The Worker Wrapper Transformation](http://www.cs.nott.ac.uk/~pszgmh/hackett-thesis.pdf)
+- [The Worker Wrapper Transformation](http://www.cs.nott.ac.uk/~pszgmh/hackett-thesis.pdf)
+- [Reflection without remorse - A Conceptual Sequence as a Tangible and Efficient Data Structure](http://okmij.org/ftp/Haskell/Reflection.html)
 
 ## Metaprogramming
 
- - [Typeable and Data in Haskell](https://chrisdone.com/posts/data-typeable/)
+- [Typeable and Data in Haskell](https://chrisdone.com/posts/data-typeable/)
 
 ## Lisp
 
- - [beautifulracket.com blog](https://beautifulracket.com)
-   - https://beautifulracket.com/appendix/why-racket-why-lisp.html
-   - https://beautifulracket.com/appendix/why-lop-why-racket.html
+- [beautifulracket.com blog](https://beautifulracket.com)
+  - https://beautifulracket.com/appendix/why-racket-why-lisp.html
+  - https://beautifulracket.com/appendix/why-lop-why-racket.html
 
 ## Extensible effects
 
