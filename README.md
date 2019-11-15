@@ -156,6 +156,40 @@ To answer the question rigorously, I need to do some reading:
 ### Refactoring
 - [Defunctionalization: the best refactoring you've never heard of](http://www.pathsensitive.com/2019/07/the-best-refactoring-youve-never-heard.html)
 
+## Fun concepts
+
+### Backwards programming
+
+It's fun to program with products:
+
+```haskell
+assoc :: ((x, y), z) -> (x, (y, z))
+assoc ((x, y), z) = (x, (y, z))
+```
+
+You can receive everything and throw things away that you don't care about.
+
+It's a little bit tedious to program with coproducts:
+
+```haskell
+assocE :: Either (Either x y) z -> Either x (Either y z)
+assocE (Left (Left x)) = Left x
+assocE (Left (Right y)) = Right $ Left y
+assocE (Right z) = Right $ Right z
+```
+
+You receive things one case at a time, you can't just ignore cases you don't care about.
+
+I suspect that this has something to do with the fact that Hask is cartesian closed, and the product tensor is `(,)`. But of course Hask has a dual, and in the dual category, it's `Either` that's the product. So maybe if we had some notion of "backwards" pattern matching, it would be fun to use it for coproducts and tedious for products!
+
+After some discussion and googling, I found some promising links:
+
+- https://link.springer.com/chapter/10.1007%2FBFb0018355
+- https://homepages.inf.ed.ac.uk/wadler/papers/dual-reloaded/dual-reloaded.pdf
+- http://www.cs.ox.ac.uk/ralf.hinze/WG2.8/27/slides/kenichi1.pdf
+- http://www.is.ocha.ac.jp/~asai/papers/diku-ist11.pdf
+- http://www.cs.ox.ac.uk/people/nikos.tzevelekos/DualCalc_06.pdf
+
 # Devops
 
 ## Nix
