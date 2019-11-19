@@ -153,8 +153,12 @@ To answer the question rigorously, I need to do some reading:
 - [Semantics for algebraic operations](http://homepages.inf.ed.ac.uk/gdp/publications/sem_alg_ops.pdf)
 - [polysemy codebase](https://github.com/isovector/polysemy)
 
-### Refactoring
+## Refactoring
 - [Defunctionalization: the best refactoring you've never heard of](http://www.pathsensitive.com/2019/07/the-best-refactoring-youve-never-heard.html)
+
+## Compilation
+
+- [Supercompilation by evaluation](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/supercomp-by-eval.pdf?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fsimonpj%2Fpapers%2Fsupercompilation%2Fsupercomp-by-eval.pdf)
 
 ## Fun concepts
 
