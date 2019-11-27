@@ -257,6 +257,12 @@ My understanding of enrichment still needs a lot of work. I think a good path fo
 - http://www.math.toronto.edu/rossman/EFgames-lecture.pdf
 - https://en.wikipedia.org/wiki/Ehrenfeucht%E2%80%93Fra%C3%AFss%C3%A9_game
 
+## Computability
+
+- [Categories and Computability](http://www.cs.ioc.ee/ewscs/2010/cockett/estonia-notes.pdf)
+- [Platonism, Constructivisim, and Computer Proofs vs Proofs by Hand](https://pdfs.semanticscholar.org/8705/02fc88f3b1545146b535a8ddca9f8c45dcea.pdf)
+- [Theoretical Computer Science for the Working Category Theorist](https://arxiv.org/pdf/1710.03090.pdf)
+
 ## Geometry
 
 ### Collision detection
