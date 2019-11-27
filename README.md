@@ -278,16 +278,6 @@ Anyway here's a paper about closure operators and lattices:
 
 - [Closure operators on sets and algebraic lattices](https://pdfs.semanticscholar.org/2fc9/320b490cfb8d759f6ec0fb9697434e6ddc78.pdf)
 
-### Graphs
-
-I want to build a 3D git repo visualizer. Need to learn more about graph/tree layout algorithms esp in 3D:
-
-- [Tree Drawing Algorithms and Tree Visualisation Methods (slides)](http://www.it.usyd.edu.au/~shhong/comp5048-lec2.pdf)
-- [Cool hyperbolic geometry approach for rendering graphs using a spanning tree](https://graphics.stanford.edu/papers/h3cga/html/)
-- [Algebraic Graphs with Class](https://eprint.ncl.ac.uk/file_store/production/239461/EF82F5FE-66E3-4F64-A1AC-A366D1961738.pdf)
-- [Directed hypergraphs and applications](https://www.sciencedirect.com/science/article/pii/0166218X9390045P)
-- [Algebra of parametrized graphs](https://pdfs.semanticscholar.org/fc44/cab864acb7e5ea07e04018d39f585e02d52c.pdf)
-
 ### Vector algebra
 
 I want to render a game of life in toroidal coordinates on an actual torus. I started implementing my own vector algebra library using some generalized n-dimensional vector math stuff, but then became intrigued by what the generalization of the cross product to n-dimensions would be. Turns out this is called the Hodge Star operator. In the course of learning about this, I discovered a rabbithole of interesting things to read:
@@ -300,6 +290,17 @@ I want to render a game of life in toroidal coordinates on an actual torus. I st
 Stuff I've played around with so far:
 
 - [Implementation of game of life using traced comonad (traced probably works out really great for concatenating matrix transforms and doing relative coordinates in nD)](https://ywvr561j8z.codesandbox.io/)
+
+
+## Graphs
+
+I want to build a 3D git repo visualizer. Need to learn more about graph/tree layout algorithms esp in 3D:
+
+- [Tree Drawing Algorithms and Tree Visualisation Methods (slides)](http://www.it.usyd.edu.au/~shhong/comp5048-lec2.pdf)
+- [Cool hyperbolic geometry approach for rendering graphs using a spanning tree](https://graphics.stanford.edu/papers/h3cga/html/)
+- [Algebraic Graphs with Class](https://eprint.ncl.ac.uk/file_store/production/239461/EF82F5FE-66E3-4F64-A1AC-A366D1961738.pdf)
+- [Directed hypergraphs and applications](https://www.sciencedirect.com/science/article/pii/0166218X9390045P)
+- [Algebra of parametrized graphs](https://pdfs.semanticscholar.org/fc44/cab864acb7e5ea07e04018d39f585e02d52c.pdf)
 
 ## Topology
 
