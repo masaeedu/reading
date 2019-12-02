@@ -20,19 +20,20 @@
 - [Recovering Purity with Comonads and Capabilities](https://www.cl.cam.ac.uk/~nk480/popl20-cap-submission.pdf)
 - [A Lazy Language Needs a Lazy Type System](https://arxiv.org/pdf/1612.04610.pdf)
 - [Dependently Typed Records for Representing Mathematical Structure](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.35.9569)
- - [Inductive families](http://www.cse.chalmers.se/~peterd/papers/Inductive_Families.pdf)
- - [Generic level polymorphic n-ary functions](https://gallais.github.io/pdf/tyde19.pdf)
- - [λμ calculus - An algorithmic interpretation of classical natural deduction](https://www.cs.ru.nl/~freek/courses/tt-2011/papers/parigot.pdf)
- - [Syntax and Semantics of Quantitative Type Theory](https://bentnib.org/quantitative-type-theory.pdf)
- - [On the Size of Machines (Blum Size Theorem)](https://www.dropbox.com/s/93727ua10ccv8f5/sizethm.pdf)
- - [Type is an extensible GADT](https://blog.poisson.chat/posts/2018-07-09-type-gadt.html)
- - [Isomorphic Reasoning: Counting PolymorphicType Inhabitants](https://github.com/cohomolo-gy/Isomorphic-Reasoning)
- - [Counting type inhabitants](https://alexknvl.com/posts/counting-type-inhabitants.html)
- - [A Foundation for GADTs and Inductive Families - Dependent Polynomial Functor Approach](https://www.cl.cam.ac.uk/~mpf23/papers/Types/gadtif.pdf)
- - [Giving Haskell a Promotion](https://www.seas.upenn.edu/~sweirich/papers/tldi12.pdf)
- - [Substructural Type Systems](http://mitp-content-server.mit.edu:18180/books/content/sectbyfn?collid=books_pres_0&id=1104&fn=9780262162289_sch_0001.pdf)
- - [A Hands On Introduction to Cubical Type Theory](https://homotopytypetheory.org/2017/09/16/a-hands-on-introduction-to-cubicaltt/)
- - [Dynamic Typing with Dependent Types](https://sip.cs.princeton.edu/pub/TCS04.pdf): Really interesting paper about a gradually typed approach for adding dependent types to fragments of a dynamically typed program
+- [Inductive families](http://www.cse.chalmers.se/~peterd/papers/Inductive_Families.pdf)
+- [Generic level polymorphic n-ary functions](https://gallais.github.io/pdf/tyde19.pdf)
+- [λμ calculus - An algorithmic interpretation of classical natural deduction](https://www.cs.ru.nl/~freek/courses/tt-2011/papers/parigot.pdf)
+- [Syntax and Semantics of Quantitative Type Theory](https://bentnib.org/quantitative-type-theory.pdf)
+- [On the Size of Machines (Blum Size Theorem)](https://www.dropbox.com/s/93727ua10ccv8f5/sizethm.pdf)
+- [Type is an extensible GADT](https://blog.poisson.chat/posts/2018-07-09-type-gadt.html)
+- [Isomorphic Reasoning: Counting PolymorphicType Inhabitants](https://github.com/cohomolo-gy/Isomorphic-Reasoning)
+- [Counting type inhabitants](https://alexknvl.com/posts/counting-type-inhabitants.html)
+- [A Foundation for GADTs and Inductive Families - Dependent Polynomial Functor Approach](https://www.cl.cam.ac.uk/~mpf23/papers/Types/gadtif.pdf)
+- [Giving Haskell a Promotion](https://www.seas.upenn.edu/~sweirich/papers/tldi12.pdf)
+- [Substructural Type Systems](http://mitp-content-server.mit.edu:18180/books/content/sectbyfn?collid=books_pres_0&id=1104&fn=9780262162289_sch_0001.pdf)
+- [A Hands On Introduction to Cubical Type Theory](https://homotopytypetheory.org/2017/09/16/a-hands-on-introduction-to-cubicaltt/)
+- [Dynamic Typing with Dependent Types](https://sip.cs.princeton.edu/pub/TCS04.pdf): Really interesting paper about a gradually typed approach for adding dependent types to fragments of a dynamically typed program
+- [Self Types for Dependently Typed Lambda Encodings](https://homepage.divms.uiowa.edu/~astump/papers/fu-stump-rta-tlca-14.pdf)
 
 Are ADTs an essential primitive of a sufficiently expressive dependent type system? Based on how things work out computationally in untyped JS, it would be really nice if the answer was "no". Here are some links that seem to provide promising evidence for that hypothesis:
 
