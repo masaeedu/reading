@@ -228,6 +228,8 @@ After some discussion and googling, I found some promising links:
 - [Theoretical Pearl - Monads from Comonads, Comonads from Monads](http://www.cs.ox.ac.uk/ralf.hinze/WG2.8/28/slides/Comonad.pdf)
 - [Bi-actegories](https://www2.irb.hr/korisnici/zskoda/biact.pdf) (stuff related to the equivalent of modules/bimodules but at the level of categories as sets and bifunctors as left/right actions)
   - [Distributive laws for actions of monoidal categories](https://arxiv.org/pdf/math/0406310.pdf)
+- [Initial algebra and final coalgebra semantics for concurrency](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=A98BC2E03563145225EDE0ACE2A297E0?doi=10.1.1.28.8093&rep=rep1&type=pdf)
+- [A Study of Categories of Algebras and Coalgebras](https://www.andrew.cmu.edu/user/awodey/students/hughes.pdf)
 
 ### Brendan Fong
 - http://www.brendanfong.com/
