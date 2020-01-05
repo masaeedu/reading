@@ -1,12 +1,5 @@
 # Programming
 
-## Curry-Howard correspondence
-
-- [A Formulae-as-Types Notion of Control](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=539A05FBC2F509D4F2DF59702F69566E?doi=10.1.1.26.6893&rep=rep1&type=pdf)
-- [Classical vs constructive logic](https://www.andrew.cmu.edu/user/avigad/Teaching/classical.pdf)
-- [Modal logic (order goes propositional logic -> predicate logic -> modal logic)](https://en.wikipedia.org/wiki/Modal_logic)
-- [Kripke semantics](https://en.wikipedia.org/wiki/Kripke_semantics)
-
 ## Type systems
 
 - [Singleton types are sufficient to model CoC](https://www.iro.umontreal.ca/~monnier/comp-deptypes.pdf)
@@ -48,9 +41,17 @@ Are ADTs an essential primitive of a sufficiently expressive dependent type syst
 
 ### Typeclasses
 
- - [Type-level instant insanity](https://wiki.haskell.org/wikiupload/d/dd/TMR-Issue8.pdf)
- - [Coherent Explicit Dictionary Application for Haskell](https://lirias.kuleuven.be/retrieve/519822/)
- - [Type Classes Reflect the Value of Types](http://okmij.org/ftp/Haskell/tr-15-04.pdf)
+- [Type-level instant insanity](https://wiki.haskell.org/wikiupload/d/dd/TMR-Issue8.pdf)
+- [Coherent Explicit Dictionary Application for Haskell](https://lirias.kuleuven.be/retrieve/519822/)
+- [Type Classes Reflect the Value of Types](http://okmij.org/ftp/Haskell/tr-15-04.pdf)
+
+
+### Curry-Howard correspondence
+
+- [A Formulae-as-Types Notion of Control](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=539A05FBC2F509D4F2DF59702F69566E?doi=10.1.1.26.6893&rep=rep1&type=pdf)
+- [Classical vs constructive logic](https://www.andrew.cmu.edu/user/avigad/Teaching/classical.pdf)
+- [Modal logic (order goes propositional logic -> predicate logic -> modal logic)](https://en.wikipedia.org/wiki/Modal_logic)
+- [Kripke semantics](https://en.wikipedia.org/wiki/Kripke_semantics)
 
 ## Parsing
 
@@ -235,6 +236,8 @@ After some discussion and googling, I found some promising links:
 ### Operads
 
 - [The Operad of Wiring Diagrams](https://arxiv.org/pdf/1305.0297.pdf)
+- [Higher Algebra](http://people.math.harvard.edu/~lurie/papers/HA.pdf)
+- [Higher Operads, Higher Categories](https://arxiv.org/pdf/math/0305049.pdf)
 
 ### Monoidal functors
 Need to find some information about things that are between lax and strong monoidal functors: the coherence map for the opposite functor is a retraction/section for the coherence map of the functor, but they do not form a full isomorphism. Some promising search results:
