@@ -232,9 +232,9 @@ After some discussion and googling, I found some promising links:
 - [A Study of Categories of Algebras and Coalgebras](https://www.andrew.cmu.edu/user/awodey/students/hughes.pdf)
 - [Categories of containers](https://www.cs.nott.ac.uk/~psztxa/publ/fossacs03.pdf)
 
-### Brendan Fong
-- http://www.brendanfong.com/
-- [The Algebra of Open and Interconnected Systems](https://arxiv.org/pdf/1609.05382.pdf) - apparently there is some good stuff about hypergraphs in here
+### Operads
+
+- [The Operad of Wiring Diagrams](https://arxiv.org/pdf/1305.0297.pdf)
 
 ### Monoidal functors
 Need to find some information about things that are between lax and strong monoidal functors: the coherence map for the opposite functor is a retraction/section for the coherence map of the functor, but they do not form a full isomorphism. Some promising search results:
@@ -254,6 +254,10 @@ My understanding of enrichment still needs a lot of work. I think a good path fo
 1. [A 2-categories companion (some kind of course material explaining 2-categories and bicategories)](https://www.math.uchicago.edu/~may/IMA/Incoming/Lack/companion.pdf)
 2. [Basic Bicategories (to understand the concept of a bicategory, a weakening of the definition of a 2-category)](https://arxiv.org/pdf/math/9810017.pdf)
 3. ??? (maybe try and represent some monoids objects not in `(,)` as enriched single object categories, and study how monoidal functors interact with them)
+
+### Brendan Fong
+- http://www.brendanfong.com/
+- [The Algebra of Open and Interconnected Systems](https://arxiv.org/pdf/1609.05382.pdf) - apparently there is some good stuff about hypergraphs in here
 
 ## Logic
 
