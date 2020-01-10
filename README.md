@@ -238,6 +238,7 @@ After some discussion and googling, I found some promising links:
 - [The Operad of Wiring Diagrams](https://arxiv.org/pdf/1305.0297.pdf)
 - [Higher Algebra](http://people.math.harvard.edu/~lurie/papers/HA.pdf)
 - [Higher Operads, Higher Categories](https://arxiv.org/pdf/math/0305049.pdf)
+- [Cospans, Wiring Diagrams, and the Behavioral Approach](https://johncarlosbaez.wordpress.com/2015/05/05/cospans-wiring-diagrams-and-the-behavioral-approach/) (really, really good explanation of operads, much less obscure than the other papers linked)
 
 ### Monoidal functors
 Need to find some information about things that are between lax and strong monoidal functors: the coherence map for the opposite functor is a retraction/section for the coherence map of the functor, but they do not form a full isomorphism. Some promising search results:
