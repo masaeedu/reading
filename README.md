@@ -33,6 +33,14 @@ Are ADTs an essential primitive of a sufficiently expressive dependent type syst
 - http://www.larrytheliquid.com/drafts/generic-elim.pdf
 - https://www.ioc.ee/~james/papers/levitation.pdf
 
+### Books
+
+- [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/ttfp.pdf)
+- [Programming in Martin Lof's Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf)
+- [A Primer on Homotopy Type Theory - Part 1: The Formal Type Theory](http://philsci-archive.pitt.edu/11157/1/HTT_Primer-PART-1.pdf)
+- [Homotopy Type Theory](https://homotopytypetheory.org/book/)
+
+
 ### Module systems
 
 - [Modular implicits](https://arxiv.org/pdf/1512.01895.pdf)
