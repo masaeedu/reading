@@ -248,6 +248,7 @@ After some discussion and googling, I found some promising links:
 - [Higher Operads, Higher Categories](https://arxiv.org/pdf/math/0305049.pdf)
 - [Cospans, Wiring Diagrams, and the Behavioral Approach](https://johncarlosbaez.wordpress.com/2015/05/05/cospans-wiring-diagrams-and-the-behavioral-approach/) (really, really good explanation of operads, much less obscure than the other papers linked)
 - [Operadics - The Mathematics of Modular Design](http://www.appliedcategorytheory.org/wp-content/uploads/2017/09/Spivak-Operadics-The-mathematics-of-modular-design.pdf)
+- [What is an Operad (math3ma blog)](https://www.math3ma.com/blog/what-is-an-operad-part-1) (as usual, best explanation of a tricky concept that I've encountered)
 
 ### Monoidal functors
 Need to find some information about things that are between lax and strong monoidal functors: the coherence map for the opposite functor is a retraction/section for the coherence map of the functor, but they do not form a full isomorphism. Some promising search results:
