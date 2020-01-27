@@ -329,6 +329,10 @@ I want to build a 3D git repo visualizer. Need to learn more about graph/tree la
 
 @monoidmusician suggested https://mathoverflow.net/questions/19152/why-is-a-topology-made-up-of-open-sets as an entrypoint into topology stuff.
 
+# Music
+
+- [Hearing Musical Streams](https://pdfs.semanticscholar.org/651c/a97da9f097e5e3b62cd859ca8396a4fe4f2a.pdf)
+
 # Misc. blogs
 
 - https://alexknvl.com
