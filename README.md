@@ -205,7 +205,7 @@ After some discussion and googling, I found some promising links:
 
 ## Probabilistic programming
 
-- [Selective Applicative Functors and Probabilities](file:///home/ankh/Downloads/Msc_Thesis___PDR(4).pdf)
+- [Selective Applicative Functors and Probabilities](https://github.com/bolt12/master-thesis/raw/master/Msc_Thesis___PDR(4).pdf)
 - [Algebra of Programming](https://themattchan.com/docs/algprog.pdf)
 
 # Devops
