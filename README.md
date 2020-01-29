@@ -40,7 +40,6 @@ Are ADTs an essential primitive of a sufficiently expressive dependent type syst
 - [A Primer on Homotopy Type Theory - Part 1: The Formal Type Theory](http://philsci-archive.pitt.edu/11157/1/HTT_Primer-PART-1.pdf)
 - [Homotopy Type Theory](https://homotopytypetheory.org/book/)
 
-
 ### Module systems
 
 - [Modular implicits](https://arxiv.org/pdf/1512.01895.pdf)
@@ -52,7 +51,6 @@ Are ADTs an essential primitive of a sufficiently expressive dependent type syst
 - [Type-level instant insanity](https://wiki.haskell.org/wikiupload/d/dd/TMR-Issue8.pdf)
 - [Coherent Explicit Dictionary Application for Haskell](https://lirias.kuleuven.be/retrieve/519822/)
 - [Type Classes Reflect the Value of Types](http://okmij.org/ftp/Haskell/tr-15-04.pdf)
-
 
 ### Curry-Howard correspondence
 
@@ -204,6 +202,11 @@ After some discussion and googling, I found some promising links:
 - http://www.cs.ox.ac.uk/ralf.hinze/WG2.8/27/slides/kenichi1.pdf
 - http://www.is.ocha.ac.jp/~asai/papers/diku-ist11.pdf
 - http://www.cs.ox.ac.uk/people/nikos.tzevelekos/DualCalc_06.pdf
+
+## Probabilistic programming
+
+- [Selective Applicative Functors and Probabilities](file:///home/ankh/Downloads/Msc_Thesis___PDR(4).pdf)
+- [Algebra of Programming](https://themattchan.com/docs/algprog.pdf)
 
 # Devops
 
