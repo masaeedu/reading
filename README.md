@@ -1,64 +1,5 @@
 # Programming
 
-## Type systems
-
-- [Singleton types are sufficient to model CoC](https://www.iro.umontreal.ca/~monnier/comp-deptypes.pdf)
-- [Naive Computational Type Theory](http://www.nuprl.org/documents/Constable/naive.pdf)
-- [Predicativity](https://math.stanford.edu/~feferman/papers/predicativity.pdf)
-- [Generic type-safe diffing and merging of mutually recursive datatypes (arianvp)](https://docs.google.com/presentation/d/1D9SA7_kU9RZyh0r4LF7kYvn5gDo5uKM9DWIvtUf5MkI/edit#slide=id.g59cdfdc22e_0_35)
-- [Epigram: Practical Programming with Dependent Types](http://www.e-pig.org/downloads/epigram-notes.pdf)
-- http://philsci-archive.pitt.edu/11079/1/Identity_in_HTT_public.pdf
-- [Responsive compilers](https://www.youtube.com/watch?v=N6b44kMS6OM)
-- [Extensions and Applications of Higher-Order Unification](http://conal.net/papers/elliott90.pdf)
-- [Recovering Purity with Comonads and Capabilities](https://www.cl.cam.ac.uk/~nk480/popl20-cap-submission.pdf)
-- [A Lazy Language Needs a Lazy Type System](https://arxiv.org/pdf/1612.04610.pdf)
-- [Dependently Typed Records for Representing Mathematical Structure](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.35.9569)
-- [Inductive families](http://www.cse.chalmers.se/~peterd/papers/Inductive_Families.pdf)
-- [Generic level polymorphic n-ary functions](https://gallais.github.io/pdf/tyde19.pdf)
-- [λμ calculus - An algorithmic interpretation of classical natural deduction](https://www.cs.ru.nl/~freek/courses/tt-2011/papers/parigot.pdf)
-- [Syntax and Semantics of Quantitative Type Theory](https://bentnib.org/quantitative-type-theory.pdf)
-- [On the Size of Machines (Blum Size Theorem)](https://www.dropbox.com/s/93727ua10ccv8f5/sizethm.pdf)
-- [Type is an extensible GADT](https://blog.poisson.chat/posts/2018-07-09-type-gadt.html)
-- [Isomorphic Reasoning: Counting PolymorphicType Inhabitants](https://github.com/cohomolo-gy/Isomorphic-Reasoning)
-- [Counting type inhabitants](https://alexknvl.com/posts/counting-type-inhabitants.html)
-- [A Foundation for GADTs and Inductive Families - Dependent Polynomial Functor Approach](https://www.cl.cam.ac.uk/~mpf23/papers/Types/gadtif.pdf)
-- [Giving Haskell a Promotion](https://www.seas.upenn.edu/~sweirich/papers/tldi12.pdf)
-- [Substructural Type Systems](http://mitp-content-server.mit.edu:18180/books/content/sectbyfn?collid=books_pres_0&id=1104&fn=9780262162289_sch_0001.pdf)
-- [A Hands On Introduction to Cubical Type Theory](https://homotopytypetheory.org/2017/09/16/a-hands-on-introduction-to-cubicaltt/)
-- [Dynamic Typing with Dependent Types](https://sip.cs.princeton.edu/pub/TCS04.pdf): Really interesting paper about a gradually typed approach for adding dependent types to fragments of a dynamically typed program
-- [Self Types for Dependently Typed Lambda Encodings](https://homepage.divms.uiowa.edu/~astump/papers/fu-stump-rta-tlca-14.pdf)
-
-Are ADTs an essential primitive of a sufficiently expressive dependent type system? Based on how things work out computationally in untyped JS, it would be really nice if the answer was "no". Here are some links that seem to provide promising evidence for that hypothesis:
-
-- http://www.larrytheliquid.com/drafts/generic-elim.pdf
-- https://www.ioc.ee/~james/papers/levitation.pdf
-
-### Books
-
-- [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/ttfp.pdf)
-- [Programming in Martin Lof's Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf)
-- [A Primer on Homotopy Type Theory - Part 1: The Formal Type Theory](http://philsci-archive.pitt.edu/11157/1/HTT_Primer-PART-1.pdf)
-- [Homotopy Type Theory](https://homotopytypetheory.org/book/)
-
-### Module systems
-
-- [Modular implicits](https://arxiv.org/pdf/1512.01895.pdf)
-- [Modular typeclasses](https://www.cs.cmu.edu/~rwh/papers/mtc/short.pdf)
-- [Polymorphism, Subtyping, and Type Inference in MLSub](https://www.cl.cam.ac.uk/~sd601/papers/mlsub-preprint.pdf)
-
-### Typeclasses
-
-- [Type-level instant insanity](https://wiki.haskell.org/wikiupload/d/dd/TMR-Issue8.pdf)
-- [Coherent Explicit Dictionary Application for Haskell](https://lirias.kuleuven.be/retrieve/519822/)
-- [Type Classes Reflect the Value of Types](http://okmij.org/ftp/Haskell/tr-15-04.pdf)
-
-### Curry-Howard correspondence
-
-- [A Formulae-as-Types Notion of Control](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=539A05FBC2F509D4F2DF59702F69566E?doi=10.1.1.26.6893&rep=rep1&type=pdf)
-- [Classical vs constructive logic](https://www.andrew.cmu.edu/user/avigad/Teaching/classical.pdf)
-- [Modal logic (order goes propositional logic -> predicate logic -> modal logic)](https://en.wikipedia.org/wiki/Modal_logic)
-- [Kripke semantics](https://en.wikipedia.org/wiki/Kripke_semantics)
-
 ## Parsing
 
 Need to make the parsing stuff I have work on streams of arbitrary tokens rather than just strings (hopefully making it more efficient in the process). Related reading:
@@ -207,6 +148,70 @@ After some discussion and googling, I found some promising links:
 
 - [Selective Applicative Functors and Probabilities](https://github.com/bolt12/master-thesis/raw/master/Msc_Thesis___PDR(4).pdf)
 - [Algebra of Programming](https://themattchan.com/docs/algprog.pdf)
+
+## Type systems
+
+- [Singleton types are sufficient to model CoC](https://www.iro.umontreal.ca/~monnier/comp-deptypes.pdf)
+- [Naive Computational Type Theory](http://www.nuprl.org/documents/Constable/naive.pdf)
+- [Predicativity](https://math.stanford.edu/~feferman/papers/predicativity.pdf)
+- [Generic type-safe diffing and merging of mutually recursive datatypes (arianvp)](https://docs.google.com/presentation/d/1D9SA7_kU9RZyh0r4LF7kYvn5gDo5uKM9DWIvtUf5MkI/edit#slide=id.g59cdfdc22e_0_35)
+- [Epigram: Practical Programming with Dependent Types](http://www.e-pig.org/downloads/epigram-notes.pdf)
+- http://philsci-archive.pitt.edu/11079/1/Identity_in_HTT_public.pdf
+- [Responsive compilers](https://www.youtube.com/watch?v=N6b44kMS6OM)
+- [Extensions and Applications of Higher-Order Unification](http://conal.net/papers/elliott90.pdf)
+- [Recovering Purity with Comonads and Capabilities](https://www.cl.cam.ac.uk/~nk480/popl20-cap-submission.pdf)
+- [A Lazy Language Needs a Lazy Type System](https://arxiv.org/pdf/1612.04610.pdf)
+- [Dependently Typed Records for Representing Mathematical Structure](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.35.9569)
+- [Inductive families](http://www.cse.chalmers.se/~peterd/papers/Inductive_Families.pdf)
+- [Generic level polymorphic n-ary functions](https://gallais.github.io/pdf/tyde19.pdf)
+- [λμ calculus - An algorithmic interpretation of classical natural deduction](https://www.cs.ru.nl/~freek/courses/tt-2011/papers/parigot.pdf)
+- [Syntax and Semantics of Quantitative Type Theory](https://bentnib.org/quantitative-type-theory.pdf)
+- [On the Size of Machines (Blum Size Theorem)](https://www.dropbox.com/s/93727ua10ccv8f5/sizethm.pdf)
+- [Type is an extensible GADT](https://blog.poisson.chat/posts/2018-07-09-type-gadt.html)
+- [Isomorphic Reasoning: Counting PolymorphicType Inhabitants](https://github.com/cohomolo-gy/Isomorphic-Reasoning)
+- [Counting type inhabitants](https://alexknvl.com/posts/counting-type-inhabitants.html)
+- [A Foundation for GADTs and Inductive Families - Dependent Polynomial Functor Approach](https://www.cl.cam.ac.uk/~mpf23/papers/Types/gadtif.pdf)
+- [Giving Haskell a Promotion](https://www.seas.upenn.edu/~sweirich/papers/tldi12.pdf)
+- [Substructural Type Systems](http://mitp-content-server.mit.edu:18180/books/content/sectbyfn?collid=books_pres_0&id=1104&fn=9780262162289_sch_0001.pdf)
+- [A Hands On Introduction to Cubical Type Theory](https://homotopytypetheory.org/2017/09/16/a-hands-on-introduction-to-cubicaltt/)
+- [Dynamic Typing with Dependent Types](https://sip.cs.princeton.edu/pub/TCS04.pdf): Really interesting paper about a gradually typed approach for adding dependent types to fragments of a dynamically typed program
+- [Self Types for Dependently Typed Lambda Encodings](https://homepage.divms.uiowa.edu/~astump/papers/fu-stump-rta-tlca-14.pdf)
+
+Are ADTs an essential primitive of a sufficiently expressive dependent type system? Based on how things work out computationally in untyped JS, it would be really nice if the answer was "no". Here are some links that seem to provide promising evidence for that hypothesis:
+
+- http://www.larrytheliquid.com/drafts/generic-elim.pdf
+- https://www.ioc.ee/~james/papers/levitation.pdf
+
+### Books
+
+- [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/ttfp.pdf)
+- [Programming in Martin Lof's Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf)
+- [A Primer on Homotopy Type Theory - Part 1: The Formal Type Theory](http://philsci-archive.pitt.edu/11157/1/HTT_Primer-PART-1.pdf)
+- [Homotopy Type Theory](https://homotopytypetheory.org/book/)
+
+### Module systems
+
+- [Modular implicits](https://arxiv.org/pdf/1512.01895.pdf)
+- [Modular typeclasses](https://www.cs.cmu.edu/~rwh/papers/mtc/short.pdf)
+- [Polymorphism, Subtyping, and Type Inference in MLSub](https://www.cl.cam.ac.uk/~sd601/papers/mlsub-preprint.pdf)
+
+### Typeclasses
+
+- [Type-level instant insanity](https://wiki.haskell.org/wikiupload/d/dd/TMR-Issue8.pdf)
+- [Coherent Explicit Dictionary Application for Haskell](https://lirias.kuleuven.be/retrieve/519822/)
+- [Type Classes Reflect the Value of Types](http://okmij.org/ftp/Haskell/tr-15-04.pdf)
+
+### Curry-Howard correspondence
+
+- [A Formulae-as-Types Notion of Control](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=539A05FBC2F509D4F2DF59702F69566E?doi=10.1.1.26.6893&rep=rep1&type=pdf)
+- [Classical vs constructive logic](https://www.andrew.cmu.edu/user/avigad/Teaching/classical.pdf)
+- [Modal logic (order goes propositional logic -> predicate logic -> modal logic)](https://en.wikipedia.org/wiki/Modal_logic)
+- [Kripke semantics](https://en.wikipedia.org/wiki/Kripke_semantics)
+
+### ADTs
+
+- [Views: A way for pattern matching to cohabit with data abstraction](https://www.cs.tufts.edu/~nr/cs257/archive/phil-wadler/views.pdf)
+- [The view from the left](https://dl.acm.org/doi/10.1017/S0956796803004829)
 
 # Devops
 
