@@ -277,6 +277,11 @@ My understanding of enrichment still needs a lot of work. I think a good path fo
 2. [Basic Bicategories (to understand the concept of a bicategory, a weakening of the definition of a 2-category)](https://arxiv.org/pdf/math/9810017.pdf)
 3. ??? (maybe try and represent some monoids objects not in `(,)` as enriched single object categories, and study how monoidal functors interact with them)
 
+### Relationship between (co)monads and monoidal structures
+Almost everything by Tarmo Uustalu is relevant, esp. as relates to comonads
+
+- [Lecture notes from a course "Containers for effects and contexts"](http://cs.ioc.ee/~tarmo/ssgep15/)
+
 ### Brendan Fong
 - http://www.brendanfong.com/
 - [The Algebra of Open and Interconnected Systems](https://arxiv.org/pdf/1609.05382.pdf) - apparently there is some good stuff about hypergraphs in here
