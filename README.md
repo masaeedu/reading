@@ -281,6 +281,7 @@ My understanding of enrichment still needs a lot of work. I think a good path fo
 Almost everything by Tarmo Uustalu is relevant, esp. as relates to comonads
 
 - [Lecture notes from a course "Containers for effects and contexts"](http://cs.ioc.ee/~tarmo/ssgep15/)
+- [Programming Contextual Computations](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-854.pdf)
 
 ### Brendan Fong
 - http://www.brendanfong.com/
