@@ -148,6 +148,7 @@ After some discussion and googling, I found some promising links:
 
 - [Selective Applicative Functors and Probabilities](https://github.com/bolt12/master-thesis/raw/master/Msc_Thesis___PDR(4).pdf)
 - [Algebra of Programming](https://themattchan.com/docs/algprog.pdf)
+- [Explanation of probability monad](http://www.cs.ru.nl/B.Jacobs/PAPERS/triangle.pdf). Includes representation of probability distribution as convex sum that I need to use in https://github.com/masaeedu/co-optics to model the generator half of bigenerators. This should allow for an implementation of `Alternative` that is properly associative.
 
 ## Type systems
 
