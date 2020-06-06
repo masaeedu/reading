@@ -214,6 +214,25 @@ Are ADTs an essential primitive of a sufficiently expressive dependent type syst
 - [Views: A way for pattern matching to cohabit with data abstraction](https://www.cs.tufts.edu/~nr/cs257/archive/phil-wadler/views.pdf)
 - [The view from the left](https://dl.acm.org/doi/10.1017/S0956796803004829)
 
+### Dependently typed programming
+
+#### Containers
+
+I have this big stack of concepts I'm trying to work through at the moment that goes like this:
+
+- There is this notion of operad with sets of variadic operations, but with no restrictions on how the operations may be composed (hence _sets_ and not categories)
+- I wish to generalize this along two dimensions: I want to describe the arity of a set of operations by a set of input labels instead of a mere natural number, and I want a partial composition operation such that the valid precompositions for a given operation are restricted
+- There is this concept of a "colored operad" (aka multicategory), in which we solve the second problem: there is this set of "colors", and the family of operation sets is no longer indexed by a natural number, but instead by lists of colors. Further, composition is restricted so that "output colors" and "input colors" line up.
+- Now to go beyond lists and to maps (and maybe to other containers), we need some systematic way of abstracting the relationship between lists and natural numbers to maps and strings
+- The theory of "containers" in dependently typed programming elaborates on this relationship between a set of "shapes", each of which corresponds to a set of positions in a container (for lists the set of shapes corresponds to the natural numbers).
+
+Here's some relevant reading:
+
+- [Categories of Containers](https://www.cs.nott.ac.uk/~psztxa/publ/fossacs03.pdf)
+- [Indexed Containers](http://strictlypositive.org/indexed-containers.pdf)
+- [Generic Programming Within Dependently Typed Programming](https://www.cs.nott.ac.uk/~psztxa/publ/wcgp02.pdf)
+
+
 # Devops
 
 ## Nix
