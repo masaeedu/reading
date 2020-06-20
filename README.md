@@ -232,6 +232,10 @@ Here's some relevant reading:
 - [Indexed Containers](http://strictlypositive.org/indexed-containers.pdf)
 - [Generic Programming Within Dependently Typed Programming](https://www.cs.nott.ac.uk/~psztxa/publ/wcgp02.pdf)
 
+### Linear types
+
+- [Propositions as Sessions](http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-sessions/propositions-as-sessions.pdf)
+- [I Got Plenty o' Nuttin'](https://personal.cis.strath.ac.uk/conor.mcbride/PlentyO-CR.pdf)
 
 # Devops
 
