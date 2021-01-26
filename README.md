@@ -272,6 +272,7 @@ Here's some relevant reading:
 - [Initial algebra and final coalgebra semantics for concurrency](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=A98BC2E03563145225EDE0ACE2A297E0?doi=10.1.1.28.8093&rep=rep1&type=pdf)
 - [A Study of Categories of Algebras and Coalgebras](https://www.andrew.cmu.edu/user/awodey/students/hughes.pdf)
 - [Categories of containers](https://www.cs.nott.ac.uk/~psztxa/publ/fossacs03.pdf)
+- [Monads and algebraic structures (good explanation of monadicity and Eilenberg-Moore category of a monad)](https://math.uchicago.edu/~may/REU2012/REUPapers/Sankar.pdf)
 
 ### Coalgebraic descriptions of systems (state machines)
 
