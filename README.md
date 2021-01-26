@@ -286,6 +286,7 @@ The theory of "systems" with dynamic behavior is apparently well modeled coalgeb
 - All of Bart Jacobs' stuff, there's a metric crapton of stuff on coalgebras and systems [here](https://scholar.google.com/citations?user=c2b9xloAAAAJ&hl=en), most of which is referenced in the other papers in the list
   - [A Bialgebraic Review of Regular Expressions, Deterministic Automata and Languages](https://repository.ubn.ru.nl/bitstream/handle/2066/36207/36207.pdf?sequence=1)
 - [Behavioural differential equations: a coinductive calculus of streams, automata, and power series](https://homepages.cwi.nl/~janr/papers/files-of-papers/tcs308.pdf)
+- [Learning Automata with Side-Effects](https://discovery.ucl.ac.uk/id/eprint/10113536/1/camera-ready-11.pdf)
 
 
 ### Operads
