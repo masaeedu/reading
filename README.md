@@ -283,6 +283,7 @@ The theory of "systems" with dynamic behavior is apparently well modeled coalgeb
 - [Universal coalgebra: a theory of systems](https://www.sciencedirect.com/science/article/pii/S0304397500000566)
 - [A coalgebraic semantic framework for component-based development in UML](https://www.sciencedirect.com/science/article/pii/S1571066105000411)
 - All of Bart Jacobs' stuff, there's a metric crapton of stuff on coalgebras and systems [here](https://scholar.google.com/citations?user=c2b9xloAAAAJ&hl=en), most of which is referenced in the other papers in the list
+- [Behavioural differential equations: a coinductive calculus of streams, automata, and power series](https://homepages.cwi.nl/~janr/papers/files-of-papers/tcs308.pdf)
 
 
 ### Operads
