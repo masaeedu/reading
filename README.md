@@ -273,6 +273,18 @@ Here's some relevant reading:
 - [A Study of Categories of Algebras and Coalgebras](https://www.andrew.cmu.edu/user/awodey/students/hughes.pdf)
 - [Categories of containers](https://www.cs.nott.ac.uk/~psztxa/publ/fossacs03.pdf)
 
+### Coalgebraic descriptions of systems (state machines)
+
+The theory of "systems" with dynamic behavior is apparently well modeled coalgebraically. So for example a Moore machine is a coalgebra of the signature functor ``, where the carrier represents the state. The terminal coalgebra this unfolds to represents the behavior of the system.
+
+- [Towards a Uniform Theory of Effectful State Machines](https://arxiv.org/pdf/1401.5277.pdf)
+- [Statecharts: A visual formalism for complex systems](https://www.inf.ed.ac.uk/teaching/courses/seoc/2005_2006/resources/statecharts.pdf)
+- [Coalgebraic Automata and Canonical Models of Moore Machines](https://qubd.github.io/files/CanonicalModelsOfCoalgebraicAutomata.pdf)
+- [Universal coalgebra: a theory of systems](https://www.sciencedirect.com/science/article/pii/S0304397500000566)
+- [A coalgebraic semantic framework for component-based development in UML](https://www.sciencedirect.com/science/article/pii/S1571066105000411)
+- All of Bart Jacobs' stuff, there's a metric crapton of stuff on coalgebras and systems [here](https://scholar.google.com/citations?user=c2b9xloAAAAJ&hl=en), most of which is referenced in the other papers in the list
+
+
 ### Operads
 
 - [The Operad of Wiring Diagrams](https://arxiv.org/pdf/1305.0297.pdf)
