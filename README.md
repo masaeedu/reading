@@ -287,6 +287,7 @@ The theory of "systems" with dynamic behavior is apparently well modeled coalgeb
   - [A Bialgebraic Review of Regular Expressions, Deterministic Automata and Languages](https://repository.ubn.ru.nl/bitstream/handle/2066/36207/36207.pdf?sequence=1)
 - [Behavioural differential equations: a coinductive calculus of streams, automata, and power series](https://homepages.cwi.nl/~janr/papers/files-of-papers/tcs308.pdf)
 - [Learning Automata with Side-Effects](https://discovery.ucl.ac.uk/id/eprint/10113536/1/camera-ready-11.pdf)
+- [Runar Bjarnason's talk on machines](https://www.dropbox.com/s/jrq66rhzkmz4wft/Machines.pdf)
 
 
 ### Operads
