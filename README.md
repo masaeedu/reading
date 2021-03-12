@@ -285,10 +285,13 @@ The theory of "systems" with dynamic behavior is apparently well modeled coalgeb
 - [A coalgebraic semantic framework for component-based development in UML](https://www.sciencedirect.com/science/article/pii/S1571066105000411)
 - All of Bart Jacobs' stuff, there's a metric crapton of stuff on coalgebras and systems [here](https://scholar.google.com/citations?user=c2b9xloAAAAJ&hl=en), most of which is referenced in the other papers in the list
   - [A Bialgebraic Review of Regular Expressions, Deterministic Automata and Languages](https://repository.ubn.ru.nl/bitstream/handle/2066/36207/36207.pdf?sequence=1)
+  - [A tutorial on (Co)algebras and (Co)Induction](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.37.1418&rep=rep1&type=pdf)
 - [Behavioural differential equations: a coinductive calculus of streams, automata, and power series](https://homepages.cwi.nl/~janr/papers/files-of-papers/tcs308.pdf)
 - [Learning Automata with Side-Effects](https://discovery.ucl.ac.uk/id/eprint/10113536/1/camera-ready-11.pdf)
 - [Runar Bjarnason's talk on machines](https://www.dropbox.com/s/jrq66rhzkmz4wft/Machines.pdf)
-
+- [An approach to Object Semantics based on Terminal Co-Algebras](https://www.researchgate.net/publication/220173547_An_Approach_to_Object_Semantics_based_on_Terminal_Co-Algebras)
+- [Many-sorted coalgebraic modal logic: a model theoretic study](http://www.numdam.org/article/ITA_2001__35_1_31_0.pdf)
+- [Coalgebraic automata theory: basic results](https://arxiv.org/pdf/0811.1976.pdf)
 
 ### Operads
 
