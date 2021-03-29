@@ -292,6 +292,7 @@ The theory of "systems" with dynamic behavior is apparently well modeled coalgeb
 - [An approach to Object Semantics based on Terminal Co-Algebras](https://www.researchgate.net/publication/220173547_An_Approach_to_Object_Semantics_based_on_Terminal_Co-Algebras)
 - [Many-sorted coalgebraic modal logic: a model theoretic study](http://www.numdam.org/article/ITA_2001__35_1_31_0.pdf)
 - [Coalgebraic automata theory: basic results](https://arxiv.org/pdf/0811.1976.pdf)
+- Very promising paper on dependently-typed interactive programs that introduces the concept of "weakly-final coalgebra": ["Interactive Programs and Weakly Final Coalgebras in Dependent Type Theory"](https://www.researchgate.net/publication/250396472_Interactive_Programs_and_Weakly_Final_Coalgebras_in_Dependent_Type_Theory)
 
 ### Operads
 
