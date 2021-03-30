@@ -196,11 +196,13 @@ Are ADTs an essential primitive of a sufficiently expressive dependent type syst
 - [Modular typeclasses](https://www.cs.cmu.edu/~rwh/papers/mtc/short.pdf)
 - [Polymorphism, Subtyping, and Type Inference in MLSub](https://www.cl.cam.ac.uk/~sd601/papers/mlsub-preprint.pdf)
 
-### Typeclasses
+### Typeclasses (and how to avoid their use because they SUCK)
 
 - [Type-level instant insanity](https://wiki.haskell.org/wikiupload/d/dd/TMR-Issue8.pdf)
 - [Coherent Explicit Dictionary Application for Haskell](https://lirias.kuleuven.be/retrieve/519822/)
 - [Type Classes Reflect the Value of Types](http://okmij.org/ftp/Haskell/tr-15-04.pdf)
+- [Simplifying typeclasses](http://h2.jaguarpaw.co.uk/posts/simplifying-typeclasses/)
+- [GHC proposal: Allow direct access to underlying concrete class dictionaries](https://github.com/ghc-proposals/ghc-proposals/pull/324)
 
 ### Curry-Howard correspondence
 
@@ -215,6 +217,13 @@ Are ADTs an essential primitive of a sufficiently expressive dependent type syst
 - [The view from the left](https://dl.acm.org/doi/10.1017/S0956796803004829)
 
 ### Dependently typed programming
+
+#### The singletons saga
+
+- [Dependent types in Haskell: Theory and Practice](https://arxiv.org/pdf/1610.07978.pdf) (specifically what I want to get out of this is some kind of guiding principle or idea that underpins the design of `singletons`)
+- [Dependently Typed Programming with Singletons](https://cs.brynmawr.edu/~rae/papers/2012/singletons/paper.pdf) ("the singletons paper")
+- [Promoting Functions to Type Families in Haskell](https://cs.brynmawr.edu/~rae/papers/2014/promotion/promotion.pdf) ("the promotion paper")
+- Something is bad in singletons land, need to understand https://github.com/goldfirere/singletons/issues/150
 
 #### Containers
 
@@ -251,6 +260,7 @@ Here's some relevant reading:
   - https://bartoszmilewski.com/2017/12/29/stalking-a-hylomorphism-in-the-wild/
   - https://bartoszmilewski.com/2018/08/20/recursion-schemes-for-higher-algebras/
   - https://bartoszmilewski.com/2019/03/27/promonads-arrows-and-einstein-notation-for-profunctors/
+  - https://bartoszmilewski.com/2016/01/21/tambara-modules/
 - [All Concepts are Kan Extensions](www.math.harvard.edu/theses/senior/lehner/lehner.pdf)
 - [Decisive functors](https://fplab.bitbucket.io/posts/2007-07-08-decisive-functors.html)
   - I suspect that the interaction between traversable and applicative functors can be dualized to an interaction between distributive and decisive functors
@@ -350,6 +360,15 @@ Almost everything by Tarmo Uustalu is relevant, esp. as relates to comonads
 - I was looking at the retry library we use at work and I suspect that it can be radically simplified by equipping the (roughly) `data RetryAction = NoRetry | RetryASAP | RetryIn Int` data structure with a monoid data structure.
   - Andre Joyal's recent presentation on polynomial functors at the Topos Institute stream thing had a slide that got me interested in quantales. Specifically, `RetryAction` might represent a quantale, if we interpret `RetryIn Int` to be denoting the subset of the real line that is smaller than the specified upper bound. We can freely adjoin whatever monoid we want on `Int` so long as it distributes over the join.
     - Handy paper about using quantales to model "resource theories" (examples of resources modeled are very close to the exhaustible retry-tolerance we wish to model): [Quantitative Foundations for Resource Theories](https://drops.dagstuhl.de/opus/volltexte/2018/9699/pdf/LIPIcs-CSL-2018-32.pdf)
+    - [Quantales, Observational Logic and Process Semantics](https://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=89840F29152C8E6D45C4B04BB90CEDD7?doi=10.1.1.210.1485&rep=rep1&type=pdf)
+
+### Databases
+
+- [Categorical Databases (introductory talk slides)](https://math.mit.edu/~dspivak/informatics/talks/CTDBIntroductoryTalk)
+
+### Polynomial functors, monads (stuff from this is also scattered about elsewhere)
+
+- [Topos Institute workshop on polynomial functors with lots of interesting presentations, specifically want to check out the ones on cofunctors and lenses](https://topos.site/p-func-2021-workshop/)
 
 ## Logic
 
