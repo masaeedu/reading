@@ -359,8 +359,9 @@ Almost everything by Tarmo Uustalu is relevant, esp. as relates to comonads
 
 - I was looking at the retry library we use at work and I suspect that it can be radically simplified by equipping the (roughly) `data RetryAction = NoRetry | RetryASAP | RetryIn Int` data structure with a monoid data structure.
   - Andre Joyal's recent presentation on polynomial functors at the Topos Institute stream thing had a slide that got me interested in quantales. Specifically, `RetryAction` might represent a quantale, if we interpret `RetryIn Int` to be denoting the subset of the real line that is smaller than the specified upper bound. We can freely adjoin whatever monoid we want on `Int` so long as it distributes over the join.
-    - Handy paper about using quantales to model "resource theories" (examples of resources modeled are very close to the exhaustible retry-tolerance we wish to model): [Quantitative Foundations for Resource Theories](https://drops.dagstuhl.de/opus/volltexte/2018/9699/pdf/LIPIcs-CSL-2018-32.pdf)
-    - [Quantales, Observational Logic and Process Semantics](https://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=89840F29152C8E6D45C4B04BB90CEDD7?doi=10.1.1.210.1485&rep=rep1&type=pdf)
+  - Handy paper about using quantales to model "resource theories" (examples of resources modeled are very close to the exhaustible retry-tolerance we wish to model): [Quantitative Foundations for Resource Theories](https://drops.dagstuhl.de/opus/volltexte/2018/9699/pdf/LIPIcs-CSL-2018-32.pdf)
+- [Quantales, Observational Logic and Process Semantics](https://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=89840F29152C8E6D45C4B04BB90CEDD7?doi=10.1.1.210.1485&rep=rep1&type=pdf)
+- [Whitman's solution to the word problem](https://bookstore.ams.org/surv-42/16) (for lattices, relevant for talking about the free lattice)
 
 ### Databases
 
