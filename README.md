@@ -449,6 +449,12 @@ EDIT: What I might be missing is that this is somehow equivalent to the little d
 Also need to read more about [self-avoiding walks](https://en.wikipedia.org/wiki/Self-avoiding_walk), which are basically the contours of interest.
 
 - [Lectures on self-avoiding walks](https://www.ihes.fr/~duminil/publi/saw_lecture_notes.pdf)
+- [Lattice paths and random walks](https://www.stat.purdue.edu/~mdw/ChapterIntroductions/RandomWalksBousquetMelou.pdf)
+- [Basic analytic combinatorics of directed lattice paths](https://www.sciencedirect.com/science/article/pii/S0304397502000075)
+
+Some stuff on taxicab geometry that might generally be of use:
+
+- [The generalized taxicab group](https://www.researchgate.net/publication/334173836_The_Generalized_Taxicab_Group) (also valuable as a survey containing lots of good references on taxicab geometry)
 
 Power words: discrete geometry, algebraic topology, polytopes, packing, tiling, covering, incidence structure
 
