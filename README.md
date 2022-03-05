@@ -428,6 +428,24 @@ I want to build a 3D git repo visualizer. Need to learn more about graph/tree la
 
 @monoidmusician suggested https://mathoverflow.net/questions/19152/why-is-a-topology-made-up-of-open-sets as an entrypoint into topology stuff.
 
+## Polyomino theory
+
+I suspect that polyominos form a kind of colored operad. Specifically, the colors represent the "contour" of a polyomino-with-holes, and a morphism from a list of contours to a contour is a placement of the input contours such that they respect the boundaries of the output contour and do not overlap. Thus roughly speaking we can think of a multimorphism as a "tiling" of the output polyomino with the input polyominos.
+
+Some fast and loose thinking shows that this appears to be:
+
+- closed: given a valid tiling of a polyomino, and a valid tiling of each tile, there exists an obviously valid composition (i.e. that respects the contour of the outermost polyomino and avoids overlaps). the composition is roughly given by just deleting the contours of the intermediate tiles polyominos.
+- unital: any polyomino contour P can simply be "tiled" with a single polyomino that occupies its entire surface. this is obviously a valid tiling, has domain [P] and codomain P. when postcomposed with any other tiling, it has no effect. when repeated to fill a list and precomposed with any other tiling, it also has no effect.
+- associative: given a "three level" tiling of a polyomino, it does not matter in what order we forget about the two intermediate levels of contours.
+
+Somewhat interestingly, no discussions appear to have occured on the category theory zulip about polyominos, and nlab also appears to be silent on the subject. Polyominos in general appear to be quite sparsely studied, and in particular their intersection with category theory appears to be completely unstudied.
+
+"Tilings" seem to have some interesting intersections with  dynamic systems (which I'm currently studying from a coalgebraic perspective as part of my work on the cofree-bot stuff) and with algebraic topology and group theory. See for example:
+
+- [Tilings, tiling spaces and topology](https://arxiv.org/pdf/math/0506054.pdf)
+
+Power words: discrete geometry, algebraic topology, polytopes, packing, tiling, covering, incidence structure
+
 # Music
 
 - [Hearing Musical Streams](https://pdfs.semanticscholar.org/651c/a97da9f097e5e3b62cd859ca8396a4fe4f2a.pdf)
