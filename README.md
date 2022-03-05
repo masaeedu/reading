@@ -440,9 +440,15 @@ Some fast and loose thinking shows that this appears to be:
 
 Somewhat interestingly, no discussions appear to have occured on the category theory zulip about polyominos, and nlab also appears to be silent on the subject. Polyominos in general appear to be quite sparsely studied, and in particular their intersection with category theory appears to be completely unstudied.
 
+EDIT: What I might be missing is that this is somehow equivalent to the little disks operad or some other operad of topological embeddings (although AFAIU topology isn't very interested in preventing continuous deformations, which we don't want here)?
+
 "Tilings" seem to have some interesting intersections with  dynamic systems (which I'm currently studying from a coalgebraic perspective as part of my work on the cofree-bot stuff) and with algebraic topology and group theory. See for example:
 
 - [Tilings, tiling spaces and topology](https://arxiv.org/pdf/math/0506054.pdf)
+
+Also need to read more about [self-avoiding walks](https://en.wikipedia.org/wiki/Self-avoiding_walk), which are basically the contours of interest.
+
+- [Lectures on self-avoiding walks](https://www.ihes.fr/~duminil/publi/saw_lecture_notes.pdf)
 
 Power words: discrete geometry, algebraic topology, polytopes, packing, tiling, covering, incidence structure
 
