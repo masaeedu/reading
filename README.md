@@ -362,6 +362,7 @@ Almost everything by Tarmo Uustalu is relevant, esp. as relates to comonads
   - Handy paper about using quantales to model "resource theories" (examples of resources modeled are very close to the exhaustible retry-tolerance we wish to model): [Quantitative Foundations for Resource Theories](https://drops.dagstuhl.de/opus/volltexte/2018/9699/pdf/LIPIcs-CSL-2018-32.pdf)
 - [Quantales, Observational Logic and Process Semantics](https://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=89840F29152C8E6D45C4B04BB90CEDD7?doi=10.1.1.210.1485&rep=rep1&type=pdf)
 - [Whitman's solution to the word problem](https://bookstore.ams.org/surv-42/16) (for lattices, relevant for talking about the free lattice)
+- [Free Lattices](https://math.hawaii.edu/~ralph/Classes/649M/freelat.pdf)
 
 ### Databases
 
